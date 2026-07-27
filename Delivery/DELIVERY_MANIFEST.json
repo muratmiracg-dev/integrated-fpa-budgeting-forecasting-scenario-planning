@@ -1,0 +1,102 @@
+{
+  "project": "Integrated FP&A Budgeting, Forecasting & Scenario Planning System",
+  "version": "1.0.0",
+  "prepared_for": "Murat Mira\u00e7 Gedik",
+  "release_date": "2026-07-26",
+  "quality_status": "PASS",
+  "project_file_count": 221,
+  "counts": {
+    "csv": 36,
+    "python": 15,
+    "sql": 3,
+    "markdown": 26,
+    "images": 9
+  },
+  "key_artifacts": [
+    {
+      "path": "README.md",
+      "bytes": 8384,
+      "sha256": "83a103e7b5591ef89ca24b8e64105af3cef106b7a7226134c6cb0febea587e5f"
+    },
+    {
+      "path": "Excel/Integrated_FP&A_Budgeting_Forecasting_Scenario_Planning_Model.xlsx",
+      "bytes": 239998,
+      "sha256": "1db41d9ee7e4acdcc17ded64622a00e2ddb97a21206cfd56a94d799182f6e2f8"
+    },
+    {
+      "path": "PowerBI/Integrated_FPA_Planning_PBIP.zip",
+      "bytes": 156718,
+      "sha256": "a00d37d908f256c9af5abe0d7ca50e765b244a7f95ec3654d518ac3c702da3cc"
+    },
+    {
+      "path": "PowerBI/Integrated_FPA_Measures.dax",
+      "bytes": 2753,
+      "sha256": "76321feeee9fa1e6771c8dee6ff0c3745da41e15d12df8cf63b36dee27fd45f3"
+    },
+    {
+      "path": "Presentation/Integrated_FPA_Budgeting_Forecasting_Scenario_Planning_Professional_Deck_EN.pptx",
+      "bytes": 107261,
+      "sha256": "2edd9f42ac12dc0dfa87b51ceb6183f08624f81a56a0515502f8c4ec2bce8daa"
+    },
+    {
+      "path": "Presentation/Entegre_FPA_Butceleme_Tahminleme_Senaryo_Planlama_Profesyonel_Sunum_TR.pptx",
+      "bytes": 108424,
+      "sha256": "20166c897b2ba67175a1852bb3bc806228ebd48c8a58d5f0c0b617a23277d4e6"
+    },
+    {
+      "path": "Reports/Integrated_FPA_Executive_Report_12_Page_Vector_HD.pdf",
+      "bytes": 73784,
+      "sha256": "38284e3100e550f3d9fb9e8d844945abd99c3f4df0af5c382c4fb69b41cc2352"
+    },
+    {
+      "path": "Images/executive-overview.png",
+      "bytes": 135362,
+      "sha256": "11349df20f5ad509656fa1981571207a284e8cfe72095a6fa99ce4ad1d5daf50"
+    },
+    {
+      "path": "Images/solution-architecture.png",
+      "bytes": 130019,
+      "sha256": "4231d14c3a3d13c6d40b2c2447a1eceb54a6c06f56c469152555dbed3d088851"
+    },
+    {
+      "path": "Images/budget-vs-forecast.png",
+      "bytes": 123882,
+      "sha256": "f7fa0aeb804ba8c09913ec50e811cf28b5587586638c25680223f8d2dd3ad369"
+    },
+    {
+      "path": "Images/forecast-governance.png",
+      "bytes": 113961,
+      "sha256": "36fc45cbde1d6d8e16b085ace42efd3f219a40cdd0766369564a0ccbdbd82796"
+    },
+    {
+      "path": "Images/cash-liquidity.png",
+      "bytes": 102684,
+      "sha256": "168fc2cae8a4fa55e7c8ad0b9a141642dc1cabced2c9dc865b0e0860fa12761a"
+    },
+    {
+      "path": "Images/scenario-risk.png",
+      "bytes": 94833,
+      "sha256": "d5b20744a3e4b8e92464721076036a797311cd97d2364eb8f3639de8ce21e99a"
+    },
+    {
+      "path": "Images/excel-fpa-dashboard.png",
+      "bytes": 192848,
+      "sha256": "fb8fbaf6e0e9f464bbfe72cb8b905f5a9b51f69b99784bfa4d26a154acc7f3d8"
+    },
+    {
+      "path": "Docs/linkedin_project_description.md",
+      "bytes": 2220,
+      "sha256": "380612c9375e3084022f0841d0dbaef84f7b73fc914380878df358a257515c0c"
+    },
+    {
+      "path": "Docs/executive_summary.md",
+      "bytes": 2020,
+      "sha256": "b7ebbb54b652ec0393a9de23d11a4c16e71af74d9e83c0061ad9fc0bf43ec688"
+    },
+    {
+      "path": "QA/delivery_validation.md",
+      "bytes": 1061,
+      "sha256": "e21a71805cdf3472cdd7d7d75c63562aafe46bfc067c3dc7e2f6648c8dc70022"
+    }
+  ]
+}

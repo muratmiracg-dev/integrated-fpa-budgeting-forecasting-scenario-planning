@@ -1,0 +1,19 @@
+{
+  "project": "Integrated_FPA_Planning_Analytics",
+  "pages": 11,
+  "visuals": 89,
+  "tables": [
+    "P&L Stages",
+    "business_unit_performance",
+    "capex_summary",
+    "department_performance",
+    "dim_calendar",
+    "monthly_performance",
+    "risk_summary",
+    "scenario_summary",
+    "variance_analysis"
+  ],
+  "relationships": 3,
+  "valid": true,
+  "errors": []
+}

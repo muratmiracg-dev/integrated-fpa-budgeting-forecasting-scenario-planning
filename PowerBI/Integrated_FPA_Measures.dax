@@ -1,0 +1,52 @@
+// Integrated FP&A Planning Analytics - reusable DAX measure catalog
+// Generated from the semantic model definition.
+
+// [monthly_performance]
+KPI Revenue = SUM(monthly_performance[Revenue])
+KPI Budget Revenue = SUM(monthly_performance[Budget Revenue])
+KPI Gross Profit = SUM(monthly_performance[Gross Profit])
+KPI Operating Expense = SUM(monthly_performance[Operating Expense])
+KPI EBITDA = SUM(monthly_performance[EBITDA])
+KPI Budget EBITDA = SUM(monthly_performance[Budget EBITDA])
+KPI Depreciation = SUM(monthly_performance[Depreciation])
+KPI EBIT = SUM(monthly_performance[EBIT])
+KPI Net Income = SUM(monthly_performance[Net Income])
+KPI Ending Cash = MAX(monthly_performance[Ending Cash])
+KPI Headcount = MAX(monthly_performance[Headcount])
+KPI CCC Days = AVERAGE(monthly_performance[CCC Days])
+KPI Gross Margin = DIVIDE([KPI Gross Profit],[KPI Revenue],0)
+KPI EBITDA Margin = DIVIDE([KPI EBITDA],[KPI Revenue],0)
+KPI EBITDA Attainment = DIVIDE([KPI EBITDA],[KPI Budget EBITDA],0)
+KPI Forecast Accuracy = AVERAGE(monthly_performance[Forecast Accuracy])
+KPI Revenue PY = CALCULATE([KPI Revenue],DATEADD(dim_calendar[Date],-1,YEAR))
+KPI EBITDA PY = CALCULATE([KPI EBITDA],DATEADD(dim_calendar[Date],-1,YEAR))
+KPI Revenue YoY % = DIVIDE([KPI Revenue]-[KPI Revenue PY],[KPI Revenue PY],0)
+KPI EBITDA YoY % = DIVIDE([KPI EBITDA]-[KPI EBITDA PY],[KPI EBITDA PY],0)
+KPI Revenue Variance = [KPI Revenue]-[KPI Budget Revenue]
+KPI Revenue Variance % = DIVIDE([KPI Revenue Variance],[KPI Budget Revenue],0)
+KPI EBITDA Margin Target = 0.10
+KPI Cash Target = 200000000
+
+// [department_performance]
+Dept Revenue = SUM(department_performance[Revenue])
+Dept Budget Revenue = SUM(department_performance[Budget Revenue])
+Dept Operating Expense = SUM(department_performance[Operating Expense])
+Dept EBITDA = SUM(department_performance[EBITDA])
+Dept EBITDA Margin = DIVIDE([Dept EBITDA],[Dept Revenue],0)
+Dept Headcount = MAX(department_performance[Headcount])
+
+// [business_unit_performance]
+BU Revenue = SUM(business_unit_performance[Revenue])
+BU Gross Profit = SUM(business_unit_performance[Gross Profit])
+BU Operating Expense = SUM(business_unit_performance[Operating Expense])
+BU Gross Margin = DIVIDE([BU Gross Profit],[BU Revenue],0)
+
+// [P&L Stages]
+P&L Stage Value = SWITCH(SELECTEDVALUE('P&L Stages'[Stage]),"Revenue",[KPI Revenue],"Gross Profit",[KPI Gross Profit],"EBITDA",[KPI EBITDA],"EBIT",[KPI EBIT],"Net Income",[KPI Net Income],BLANK())
+
+// [scenario_summary]
+Scenario Revenue = SUM(scenario_summary[Revenue])
+Scenario EBITDA = SUM(scenario_summary[EBITDA])
+Scenario Ending Cash = SUM(scenario_summary[Ending Cash])
+Scenario Minimum Cash = SUM(scenario_summary[Minimum Cash])
+Scenario EBITDA Margin = DIVIDE([Scenario EBITDA],[Scenario Revenue],0)

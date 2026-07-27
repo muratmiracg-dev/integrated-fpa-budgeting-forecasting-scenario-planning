@@ -1,0 +1,1559 @@
+Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSystem,AccountKey,AmountTRY
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,26764959.12
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10010094.71
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,722653.9
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,776183.81
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2155262.6
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,398723.58
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1284718.04
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,457186.71
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,238197.67
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,123497.39
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,64854.77
+2026-01-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,43855.46
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,16666131.12
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,6566455.66
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,516650.06
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,516650.06
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1782236.41
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,329713.74
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,799974.29
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,283499.25
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,140813.73
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,76190.1
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,41799.72
+2026-01-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,26763.89
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,10245920.47
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,4241811.07
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,522541.94
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,348361.3
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1019604.96
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,188626.92
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,491804.18
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,178896.23
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,94839.85
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,48112.84
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,25526.8
+2026-01-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,15204.4
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,17840533.55
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,8099602.23
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,338970.14
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,428172.81
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2746578.31
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,508116.99
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,355108.68
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,310336.96
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,333962.09
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,416797.93
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,90987.67
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,63885.91
+2026-01-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,13064155.5
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,6061768.15
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,222090.64
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,339668.04
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1972894.23
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,364985.43
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,250543.29
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,234793.43
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,256018.27
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,337181.16
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,73249.01
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,43219.46
+2026-01-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,17359355.4
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,9790676.44
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,156234.2
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,243030.98
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1347039.1
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,249202.23
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,329827.75
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,169823.06
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,135871.95
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,68327.78
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,34250.21
+2026-01-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,22564.73
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,14000808.66
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,8176472.26
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,154008.9
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,238013.75
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,928420.76
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,171757.84
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,267612.91
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,141849.0
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,111950.87
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,55295.86
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,30255.19
+2026-01-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,19560.07
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,7412689.03
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1512188.56
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,177904.54
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,126015.71
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1768420.56
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,327157.8
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,381658.36
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,69676.74
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,833773.46
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,88022.17
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,45672.49
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,30495.08
+2026-01-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2014341.62
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,372653.2
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4270391.72
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,282754.52
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,100558.32
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,391185.17
+2026-01-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,168635.96
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2859867.48
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,529075.48
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,4812627.25
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,449723.6
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1294939.96
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,280524.97
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,123108.58
+2026-01-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2917894.02
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,539810.39
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4161456.62
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,288949.51
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1092242.16
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,229944.16
+2026-01-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2553157.23
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,472334.09
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,737428.56
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1515875.92
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1594584.84
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,362809.47
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-01-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,202774.14
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,27093878.07
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10133110.4
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,731534.71
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,785722.46
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1300506.15
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,478374.04
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,251894.96
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,124593.28
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,68102.68
+2026-02-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,44023.31
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,17450586.45
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,6875531.06
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,540968.18
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,540968.18
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,837628.15
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,307132.49
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,147097.2
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,76599.85
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,41416.92
+2026-02-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,24639.36
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,10347823.98
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,4283999.13
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,527739.02
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,351826.02
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,496695.55
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,175289.47
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,99306.01
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,48792.63
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,23874.5
+2026-02-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16257.3
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,18772593.42
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,8522757.41
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,356679.28
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,450542.24
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,368820.5
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,329399.71
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,338478.0
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,417278.49
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,88908.64
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,47046.14
+2026-02-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,13300243.93
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,6171313.19
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,226104.15
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,345806.34
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,260281.53
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,239073.07
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,260436.99
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,338556.2
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,71790.57
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,40968.69
+2026-02-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,18446510.93
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10403832.16
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,166018.6
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,258251.15
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,358225.35
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,186065.27
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,138729.18
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,69216.5
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,35851.81
+2026-02-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,20559.85
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,15059200.99
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,8794573.38
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,165651.21
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,256006.42
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,286869.25
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,146793.71
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,110761.68
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,56107.83
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,29550.12
+2026-02-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,16204.63
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,7540057.25
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1538171.68
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,180961.37
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,128180.97
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,419810.68
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,69090.85
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,840187.42
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,90104.14
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,48337.81
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,33396.87
+2026-02-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4427137.75
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,279831.71
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,99340.19
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,374634.25
+2026-02-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,172649.1
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,4932712.96
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,469478.27
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1325638.08
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,278208.22
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,125720.02
+2026-02-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3050525.57
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,564347.23
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4249769.87
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,296512.51
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1148198.72
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,206095.9
+2026-02-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,760211.69
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1526401.49
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1592742.96
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,347914.99
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-02-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,178181.14
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,30348984.54
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11350520.22
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,819422.58
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,880120.55
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1456751.26
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,523419.79
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,254616.26
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,125736.77
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,70284.05
+2026-03-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,43689.89
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,20143148.21
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,7936400.39
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,624437.59
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,624437.59
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,966871.11
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,344005.45
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,158897.28
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,77185.75
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,38897.92
+2026-03-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,26693.67
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,11687944.6
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,4838809.06
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,596085.17
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,397390.12
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,561021.34
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,193772.95
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,96535.96
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,49163.05
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,26896.21
+2026-03-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16258.94
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,21148042.27
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,9601211.19
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,401812.8
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,507553.01
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,411366.95
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,373172.06
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,346115.39
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,432413.33
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,81735.12
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,55654.38
+2026-03-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,15587452.55
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7232577.98
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,264986.69
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,405273.77
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,310188.0
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,296377.24
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,265147.39
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,338937.71
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,67526.01
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,42473.69
+2026-03-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,21374959.36
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,12055477.08
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,192374.63
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,299249.43
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,406124.23
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,208248.43
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,141950.46
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,71209.52
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,37639.32
+2026-03-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,23737.7
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,17124338.36
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,10000613.6
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,188367.72
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,291113.75
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,340332.57
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,172673.84
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,109947.51
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,56420.77
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,28698.93
+2026-03-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,19949.27
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,8090193.29
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1650399.43
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,194164.64
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,137533.29
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,410657.04
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,77134.79
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,826015.11
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,90171.56
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,50611.07
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,31691.51
+2026-03-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4261455.18
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,284338.0
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,100852.37
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,343266.69
+2026-03-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,149971.56
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,4891272.03
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,472676.36
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1326691.77
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,279311.66
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,137858.12
+2026-03-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3050525.57
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,564347.23
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4287810.46
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,297563.93
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1060204.86
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,213506.12
+2026-03-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,743799.08
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1510474.73
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1695361.4
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,384368.94
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-03-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,2153582.84
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,30700085.3
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11481831.9
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,828902.3
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,890302.47
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1505345.4
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,507497.25
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,247860.3
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,125774.24
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,71350.11
+2026-04-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,44993.67
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,20171117.33
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,7947420.23
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,625304.64
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,625304.64
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,968213.63
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,348777.07
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,155481.14
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,78562.8
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,39385.37
+2026-04-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,26381.4
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,12266005.83
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5078126.41
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,625566.3
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,417044.2
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,588768.28
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,216249.7
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,96271.88
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,50048.54
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,25262.97
+2026-04-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,15950.53
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,22982375.68
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10433998.56
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,436665.14
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,551577.02
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,467729.55
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,419421.54
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,322647.66
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,430184.67
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,82759.7
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,51600.08
+2026-04-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,15903973.37
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7379443.64
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,270367.55
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,413503.31
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,313471.31
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,283575.74
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,266628.24
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,347120.57
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,77422.56
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,48327.47
+2026-04-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,20635592.74
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11638474.3
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,185720.33
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,288898.3
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,392076.26
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,198820.61
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,141751.12
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,70843.26
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,39730.73
+2026-04-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,23979.19
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,17175409.76
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,10030439.3
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,188929.51
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,291981.97
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,326332.79
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,170114.86
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,114929.92
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,55498.2
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,31057.04
+2026-04-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,18325.11
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,8162241.44
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1665097.25
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,195893.79
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,138758.1
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,403082.33
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,76205.67
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,830543.17
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,92304.12
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,41255.94
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,30894.0
+2026-04-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4435908.34
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,288940.97
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,103526.11
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,362767.23
+2026-04-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,161025.59
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,4866501.49
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,499764.53
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1332467.55
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,278438.1
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,137605.32
+2026-04-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3050525.57
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,564347.23
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4301091.42
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,301613.96
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1030905.26
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,244819.88
+2026-04-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,760484.33
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1540880.54
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1649813.54
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,368770.28
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-04-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,2404130.11
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,31685683.07
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11850445.47
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,855513.44
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,918884.81
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1520912.79
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,538301.83
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,257094.45
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,129541.01
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,76212.31
+2026-05-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,45131.93
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,20973043.35
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,8263379.08
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,650164.34
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,650164.34
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1006706.08
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,368223.04
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,155745.86
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,78209.26
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,43874.06
+2026-05-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,25901.99
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,12626733.25
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5227467.57
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,643963.4
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,429308.93
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,606083.2
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,214351.5
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,96433.04
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,49888.28
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,26557.13
+2026-05-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,15822.06
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,23636286.84
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10730874.22
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,449089.45
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,567270.88
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,462550.58
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,434427.75
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,347214.87
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,435729.09
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,92074.4
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,60405.26
+2026-05-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,16691240.53
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7744735.61
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,283751.09
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,433972.25
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,324194.89
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,300055.85
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,271545.59
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,348152.35
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,73550.26
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,48515.0
+2026-05-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,20021956.44
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11292383.43
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,180197.61
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,280307.39
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,380417.17
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,193504.33
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,146509.32
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,70772.04
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,37548.76
+2026-05-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,22686.62
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,16001222.48
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,9344713.93
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,176013.45
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,272020.78
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,304023.23
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,160395.04
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,116677.63
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,56541.2
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,30665.44
+2026-05-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,20173.16
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,8480489.0
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1730019.76
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,203531.74
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,144168.31
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,438980.19
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,76702.57
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,856794.95
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,91784.59
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,51771.41
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,29774.41
+2026-05-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4476779.6
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,286232.52
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,103495.84
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,390562.58
+2026-05-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,194828.95
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5008132.31
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,494783.58
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1347936.6
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,291531.28
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,140530.0
+2026-05-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3050525.57
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,564347.23
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4511861.14
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,304135.35
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1067096.05
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,215166.62
+2026-05-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,733557.16
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1532292.69
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1653921.97
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,371303.94
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-05-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,2581610.0
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,32398530.4
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,12117050.37
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,874760.32
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,939557.38
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1555129.46
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,545284.27
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,249828.2
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,131074.77
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,68970.63
+2026-06-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,43536.5
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,22071056.16
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,8695996.13
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,684202.74
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,684202.74
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1059410.7
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,383542.71
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,158531.89
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,79369.46
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,41873.42
+2026-06-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,25732.74
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,13217001.09
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5471838.45
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,674067.06
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,449378.04
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,634416.05
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,224437.45
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,103461.6
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,51283.19
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,25940.44
+2026-06-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16618.58
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,25008086.36
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11353671.21
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,475153.64
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,600194.07
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,479655.68
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,437000.07
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,347088.54
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,442252.28
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,88120.52
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,54257.36
+2026-06-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,17746103.7
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,8234192.12
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,301683.76
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,461398.7
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,343027.21
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,313605.67
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,275780.87
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,347127.77
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,77458.38
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,42918.12
+2026-06-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,19083899.66
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10763319.41
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,171755.1
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,267174.6
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,362594.09
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,192696.47
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,141692.81
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,71716.88
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,39877.82
+2026-06-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,24057.04
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,15980462.22
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,9332589.94
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,175785.08
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,271667.86
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,305903.17
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,160743.15
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,117876.65
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,56979.64
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,29930.9
+2026-06-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,19681.24
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,8711995.53
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1777247.09
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,209087.89
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,148103.92
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,429627.28
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,79488.34
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,870020.51
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,93977.81
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,49223.79
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,31234.81
+2026-06-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4641177.44
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,290846.82
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,103660.78
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,398534.13
+2026-06-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,190717.52
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5054773.55
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,477186.41
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1355177.57
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,297972.76
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,141285.82
+2026-06-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4397861.83
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,309463.2
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1162598.65
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,238739.31
+2026-06-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,752691.24
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1560681.98
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1776942.77
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,391016.28
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-06-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,2963976.6
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,30127380.52
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11267640.31
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,813439.27
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,873694.03
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1446114.26
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,516116.96
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,258508.93
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,133195.69
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,74096.14
+2026-07-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,42681.45
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,20799867.48
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,8195147.79
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,644795.89
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,644795.89
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,998393.64
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,367410.11
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,158571.99
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,80598.87
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,39261.97
+2026-07-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,25604.68
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,12850715.58
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5320196.25
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,655386.49
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,436924.33
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,616834.35
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,223772.29
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,98781.74
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,50690.17
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,25735.78
+2026-07-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16376.87
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,24236673.44
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11003449.74
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,460496.8
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,581680.16
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,466789.55
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,448757.95
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,360595.74
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,450356.17
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,90345.67
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,50394.08
+2026-07-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,17473050.04
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,8107495.22
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,297041.85
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,454299.3
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,343663.68
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,316690.29
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,275780.1
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,351579.58
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,72181.49
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,45956.04
+2026-07-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,17429926.02
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,9830478.27
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,156869.33
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,244018.96
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,336204.15
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,172465.0
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,146948.72
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,72793.42
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,37927.72
+2026-07-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,24680.95
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,14167255.15
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,8273677.01
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,155839.81
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,240843.34
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,269177.85
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,137463.9
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,118735.86
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,58275.8
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,29189.47
+2026-07-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,20188.29
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,8889939.76
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1813547.71
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,213358.55
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,151128.98
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,428934.67
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,82860.19
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,848011.09
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,93998.75
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,49881.55
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,29466.9
+2026-07-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4449056.26
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,291425.59
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,103676.74
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,401501.92
+2026-07-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,185733.46
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5069937.58
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,513293.34
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1375352.77
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,284703.69
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,134965.65
+2026-07-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4387757.0
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,307270.74
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1177944.86
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,263407.54
+2026-07-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,786615.84
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1590121.32
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1548688.71
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,408632.99
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,2123417.53
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,30337868.11
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11346362.67
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,819122.44
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,879798.18
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1456217.67
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,533805.69
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,268059.05
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,132771.23
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,76000.96
+2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,46330.21
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,19547732.35
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,7701806.55
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,605979.7
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,605979.7
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,938291.15
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,339362.15
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,163301.64
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,81077.11
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,43678.88
+2026-08-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,25935.32
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,12135838.27
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5024237.04
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,618927.75
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,412618.5
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,582520.24
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,207186.02
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,104451.9
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,51026.21
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,27570.89
+2026-08-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16786.17
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,21314089.4
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,9676596.59
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,404967.7
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,511538.15
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,425084.03
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,400715.37
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,346890.52
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,446902.14
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,90308.23
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,57833.57
+2026-08-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,15484866.69
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7184978.15
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,263242.73
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,402606.53
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,310695.47
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,279260.26
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,273116.63
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,360374.19
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,78875.78
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,46485.63
+2026-08-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,18337992.54
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10342627.79
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,165041.93
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,256731.9
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,354178.81
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,187559.71
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,146160.62
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,72411.19
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,40453.65
+2026-08-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,25699.04
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,14581163.05
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,8515399.22
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,160392.79
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,247879.77
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,277042.1
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,140759.84
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,117643.0
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,60043.3
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,31093.68
+2026-08-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,21525.47
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,9293067.73
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1895785.82
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,223033.63
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,157982.15
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,443832.63
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,83862.37
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,879596.13
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,94835.81
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,48005.42
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,32868.4
+2026-08-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4745690.63
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,291031.16
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,105094.48
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,390932.83
+2026-08-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,172902.02
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5230295.22
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,510189.15
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1369275.56
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,291023.43
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,143218.68
+2026-08-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4514109.28
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,313530.48
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1145326.48
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,250928.91
+2026-08-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2674736.14
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,494826.19
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,789574.38
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1611111.26
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1935777.06
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,396688.18
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,1293007.5
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,32491504.58
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,12151822.71
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,877270.62
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,942253.63
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2155262.6
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,398723.58
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1559592.22
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,551222.93
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,259552.57
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,133197.88
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,66660.52
+2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,45522.64
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,21908558.02
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,8631971.86
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,679165.3
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,679165.3
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,1901052.17
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,351694.65
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1051610.78
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,380898.77
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,163722.59
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,81793.16
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,43776.76
+2026-09-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,24766.64
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,13146879.86
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5442808.26
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,670490.87
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,446993.92
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1132894.4
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,209585.46
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,631050.23
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,224560.31
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,109164.96
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,52315.04
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,28998.44
+2026-09-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,18604.33
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,23810679.04
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10810048.29
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,452402.9
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,571456.3
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2746578.31
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,508116.99
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,473317.28
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,447286.68
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,354785.51
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,455198.59
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,97693.95
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,60168.4
+2026-09-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,16893007.12
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7838355.3
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,287181.12
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,439218.19
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1972894.23
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,364985.43
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,331946.18
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,308454.46
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,278939.74
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,358005.69
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,77146.38
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,40585.25
+2026-09-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,23270664.62
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,13124654.85
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,209435.98
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,325789.3
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1450657.49
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,268371.64
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,450346.59
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,222371.45
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,147833.87
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,73879.33
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,40531.04
+2026-09-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,25723.6
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,20088357.71
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,11731600.9
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,220971.93
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,341502.08
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1044473.35
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,193227.57
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,390254.03
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,189496.37
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,118272.09
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,59093.45
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,34021.81
+2026-09-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,19832.57
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,9161093.02
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1868862.98
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,219866.23
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,155738.58
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1878946.84
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,347605.17
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,446830.5
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,87132.07
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,874531.07
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,97375.18
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,50604.89
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,33285.0
+2026-09-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4584625.57
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,293659.29
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,106736.73
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,381671.78
+2026-09-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,185929.63
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2859867.48
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,529075.48
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,4808937.87
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,509654.68
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1410009.54
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,293269.27
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,149126.8
+2026-09-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3050525.57
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,564347.23
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4645324.47
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,308472.84
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1132281.94
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,247273.88
+2026-09-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,441666.67
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2553157.23
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,472334.09
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,812605.85
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1578678.65
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1591535.41
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,402552.85
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,3736279.96
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,36318374.66
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,13583072.12
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,980596.12
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,1053232.87
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,1743281.98
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,630128.89
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,273436.46
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,135722.68
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,71940.99
+2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,42628.85
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,23829143.9
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,9388682.7
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,738703.46
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,738703.46
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,2019867.93
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,373675.57
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1143798.91
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,411423.27
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,164866.15
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,82570.05
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,42480.13
+2026-10-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,28058.79
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,14096408.5
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,5835913.12
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,718916.83
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,479277.89
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1246183.84
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,230544.01
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,676627.61
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,234362.06
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,106927.45
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,52668.55
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,29121.46
+2026-10-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,15403.37
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,24334896.51
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11048043.02
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,462363.03
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,584037.52
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,476510.19
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,440945.37
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,369943.72
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,457243.26
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,98308.93
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,60114.98
+2026-10-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,17149451.61
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,7957345.55
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,291540.68
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,445885.74
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,348826.8
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,308366.66
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,283983.95
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,360447.95
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,84228.07
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,47939.56
+2026-10-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,23895572.06
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,13477102.64
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,215060.15
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,334538.01
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1554275.88
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,287541.04
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,454015.87
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,232053.49
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,150488.92
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,75271.87
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,41145.3
+2026-10-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,25678.49
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,19432571.11
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,11348621.53
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,213758.28
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,330353.71
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1160525.94
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,214697.3
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,369218.85
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,192920.79
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,121992.31
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,59840.68
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,31766.64
+2026-10-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,19963.7
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,10271087.07
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,2095301.76
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,246506.09
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,174608.48
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1989473.13
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,368052.53
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,457307.28
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,95016.42
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,858088.39
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,97104.44
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,53298.75
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,31442.73
+2026-10-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4592874.84
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,294639.47
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,107534.93
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,403255.39
+2026-10-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,196058.87
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5262808.17
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,516399.62
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1398119.84
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,310750.73
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,134037.75
+2026-10-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4760517.19
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,316225.9
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1212591.88
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,245999.77
+2026-10-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,722916.67
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2553157.23
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,472334.09
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,772422.06
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1642607.75
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1625290.24
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,384966.94
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-10-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,4263510.95
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,42526440.39
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,15904888.71
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,1148213.89
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,1233266.77
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,2041269.14
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,742923.46
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,267911.34
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,135980.63
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,74633.1
+2026-11-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,44992.36
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,28697943.25
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,11306989.64
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,889636.24
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,889636.24
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,2019867.93
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,373675.57
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1377501.28
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,506264.04
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,168361.82
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,82988.77
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,43074.22
+2026-11-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,26325.98
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,16852074.37
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,6976758.79
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,859455.79
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,572970.53
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1246183.84
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,230544.01
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,808899.57
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,287735.73
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,107703.03
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,52939.51
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,27669.62
+2026-11-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,18804.65
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,25562407.43
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11605332.97
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,485685.74
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,613497.78
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,504674.87
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,466356.37
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,360746.73
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,466589.84
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,88138.44
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,64469.66
+2026-11-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,17728540.78
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,8226042.92
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,301385.19
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,460942.06
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,359399.58
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,321593.35
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,287514.19
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,368717.24
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,74032.35
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,45043.12
+2026-11-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,20990659.23
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,11838731.81
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,188915.93
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,293869.23
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1554275.88
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,287541.04
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,398822.53
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,204229.1
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,153322.45
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,74925.41
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,38424.78
+2026-11-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,29859.58
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,17720399.06
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,10348713.05
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,194924.39
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,301246.78
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1160525.94
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,214697.3
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,338514.52
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,176899.85
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,123230.36
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,60682.97
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,34893.29
+2026-11-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,22092.03
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,9316491.32
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1900564.23
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,223595.79
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,158380.35
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1989473.13
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,368052.53
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,441407.59
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,87090.05
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,893886.22
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,98496.25
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,53241.56
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,33563.43
+2026-11-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4779960.3
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,303729.47
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,108353.19
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,385353.91
+2026-11-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,178792.21
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5391249.66
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,511208.13
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1399095.62
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,314814.32
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,143415.38
+2026-11-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4827349.26
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,316591.68
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1243288.41
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,231748.67
+2026-11-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,722916.67
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2553157.23
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,472334.09
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,798782.09
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1656908.51
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1849658.73
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,400143.65
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-11-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,5344689.58
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A4000,48218609.07
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,18033759.79
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,1301902.44
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,1398339.66
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2263025.73
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,418659.76
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,2314493.24
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,815365.59
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,271995.39
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,137280.24
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,72694.47
+2026-12-01,CC-101,Sales,Digital Commerce,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,46780.04
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A4000,29069210.36
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5000,11453268.88
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5010,901145.52
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A5020,901145.52
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6000,2019867.93
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6010,373675.57
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6100,1395322.1
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6200,505368.88
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6300,164869.0
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6400,84834.91
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6500,48556.74
+2026-12-01,CC-102,Sales,Digital Commerce,Europe,Budget,Budget,FY2026 Budget v1,A6600,27227.4
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A4000,18730095.61
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5000,7754259.58
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5010,955234.88
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A5020,636823.25
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6000,1246183.84
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6010,230544.01
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6100,899044.59
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6200,328697.55
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6300,106211.55
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6400,52409.65
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6500,24618.79
+2026-12-01,CC-103,Sales,Digital Commerce,MENA,Budget,Budget,FY2026 Budget v1,A6600,16460.87
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,29753029.14
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,13507875.23
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,565307.55
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,714072.7
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2844670.39
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,526264.02
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,585398.23
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,546167.1
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,370950.45
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,457816.96
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,97199.81
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,56483.02
+2026-12-01,CC-201,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,103333.33
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A4010,21618199.21
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10030844.44
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,367509.39
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,562073.18
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2066841.58
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,382365.69
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,417487.88
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,387533.0
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,282433.8
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,373708.4
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,72758.72
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,51456.82
+2026-12-01,CC-202,Sales,Retail Stores,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,130000.0
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A4020,19400304.84
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,10941771.93
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,174602.74
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,271604.27
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1554275.88
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,287541.04
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,368605.79
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,191790.27
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,151308.62
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,76253.28
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,42141.63
+2026-12-01,CC-301,Sales,Wholesale,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,26584.63
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A4020,16619276.38
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5000,9705657.41
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5010,182812.04
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A5020,282527.7
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6000,1160525.94
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6010,214697.3
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6100,315766.25
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6200,167632.49
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6300,121956.12
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6400,61315.83
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6500,31469.74
+2026-12-01,CC-302,Sales,Wholesale,Europe,Budget,Budget,FY2026 Budget v1,A6600,21270.43
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A4030,9736266.63
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5000,1986198.39
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5010,233670.4
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A5020,165516.53
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,1989473.13
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,368052.53
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6100,464247.87
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,89330.83
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,933779.23
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,98462.38
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,58287.08
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,30206.51
+2026-12-01,CC-401,Customer Success,Subscription Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,200000.0
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2126249.49
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,393356.16
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6100,4573885.48
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,309279.18
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,109183.4
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,419645.86
+2026-12-01,CC-501,Marketing,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,175724.71
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6000,2955196.4
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6010,546711.33
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6200,5443826.63
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6300,536426.25
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6400,1433914.11
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6500,306600.86
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6600,162697.56
+2026-12-01,CC-601,Operations,Shared Services,Türkiye,Budget,Budget,FY2026 Budget v1,A6700,215277.78
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,3183157.11
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,588884.07
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,4663839.22
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,323613.82
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1179078.56
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,248291.77
+2026-12-01,CC-701,Technology,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,722916.67
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6000,2553157.23
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6010,472334.09
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6300,796229.72
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6400,1659481.28
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6500,1687092.64
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6600,383512.29
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6700,175000.0
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6800,453035.52
+2026-12-01,CC-801,Finance & Corporate,Shared Services,Global,Budget,Budget,FY2026 Budget v1,A6900,7169359.2

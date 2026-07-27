@@ -1,0 +1,9 @@
+MetadataKey,MetadataValue
+Company,Asteria Consumer Group
+AsOfDate,2026-06-30
+Currency,TRY
+DataClassification,Synthetic portfolio data
+ActualCoverage,2023-01-01 to 2026-06-01
+BudgetCoverage,2026-01-01 to 2026-12-01
+RollingForecastCoverage,2026-07-01 to 2027-06-01
+Owner,Murat Miraç Gedik
