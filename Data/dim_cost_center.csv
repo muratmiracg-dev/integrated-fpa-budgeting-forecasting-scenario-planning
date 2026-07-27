@@ -1,0 +1,13 @@
+CostCenterID,CostCenterName,Department,BusinessUnit,Region,BaseMonthlyRevenueTRY,AnnualGrowthRate,ProductCostRatio,FeeRatio,FulfillmentRatio,OpeningFTE,AverageMonthlySalaryTRY,BudgetOwner
+CC-101,Türkiye E-Commerce,Sales,Digital Commerce,Türkiye,6200000,0.135,0.38,0.028,0.03,18,78000,Commercial Director
+CC-102,Europe E-Commerce,Sales,Digital Commerce,Europe,3800000,0.165,0.4,0.032,0.032,11,86000,Commercial Director
+CC-103,MENA Marketplace,Sales,Digital Commerce,MENA,2200000,0.19,0.42,0.052,0.035,7,82000,Commercial Director
+CC-201,Flagship Retail,Sales,Retail Stores,Türkiye,5100000,0.095,0.46,0.02,0.025,24,71000,Commercial Director
+CC-202,Regional Retail,Sales,Retail Stores,Türkiye,3450000,0.11,0.47,0.018,0.027,19,68000,Commercial Director
+CC-301,Türkiye Wholesale,Sales,Wholesale,Türkiye,4300000,0.105,0.57,0.01,0.015,10,75000,Commercial Director
+CC-302,Export Wholesale,Sales,Wholesale,Europe,3200000,0.145,0.59,0.012,0.018,8,84000,Commercial Director
+CC-401,Subscription Growth,Customer Success,Subscription Services,Türkiye,1350000,0.22,0.21,0.025,0.018,13,80000,Customer Experience Director
+CC-501,Brand & Performance Marketing,Marketing,Shared Services,Global,0,0.0,0.0,0.0,0.0,15,81000,Marketing Director
+CC-601,Fulfillment & Logistics,Operations,Shared Services,Türkiye,0,0.0,0.0,0.0,0.0,26,69000,Operations Director
+CC-701,Technology & Data,Technology,Shared Services,Global,0,0.0,0.0,0.0,0.0,23,96000,CTO
+CC-801,"People, Finance & Corporate",Finance & Corporate,Shared Services,Global,0,0.0,0.0,0.0,0.0,18,88000,CFO

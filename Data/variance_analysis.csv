@@ -1,0 +1,31 @@
+Comparison,Metric,MetricOrder,CurrentLabel,ComparatorLabel,CurrentValueTRY,ComparatorValueTRY,VarianceTRY,VariancePct,FavorableFlag,Status
+H1 2026 Actual vs Budget,Revenue,1,Actual,Budget,835958050.73,849201102.58,-13243051.85,-0.015595,False,Unfavorable
+H1 2026 Actual vs Budget,COGS,2,Actual,Budget,415715923.25,415598770.91,117152.34,0.000282,False,Unfavorable
+H1 2026 Actual vs Budget,Gross Profit,3,Actual,Budget,420242127.48,433602331.67,-13360204.19,-0.030812,False,Unfavorable
+H1 2026 Actual vs Budget,Operating Expense,4,Actual,Budget,363203675.85,381705432.49,-18501756.64,-0.048471,True,Favorable
+H1 2026 Actual vs Budget,EBITDA,5,Actual,Budget,57038451.63,51896899.18,5141552.45,0.099072,True,Favorable
+H1 2026 Actual vs Budget,Depreciation,6,Actual,Budget,7180000.04,7241666.68,-61666.64,-0.008516,True,Favorable
+H1 2026 Actual vs Budget,EBIT,7,Actual,Budget,49858451.59,44655232.5,5203219.09,0.11652,True,Favorable
+H1 2026 Actual vs Budget,Interest,8,Actual,Budget,3001360.32,2718213.12,283147.2,0.104167,False,Unfavorable
+H1 2026 Actual vs Budget,Tax,9,Actual,Budget,11714272.83,10484254.83,1230018.0,0.11732,False,Unfavorable
+H1 2026 Actual vs Budget,Net Income,10,Actual,Budget,35142818.44,31452764.55,3690053.89,0.11732,True,Favorable
+FY2026 Forecast vs Budget,Revenue,1,Forecast,Budget,1790812177.8,1838846725.17,-48034547.37,-0.026122,False,Unfavorable
+FY2026 Forecast vs Budget,COGS,2,Forecast,Budget,885897352.52,896671413.97,-10774061.45,-0.012016,True,Favorable
+FY2026 Forecast vs Budget,Gross Profit,3,Forecast,Budget,904914825.28,942175311.2,-37260485.92,-0.039547,False,Unfavorable
+FY2026 Forecast vs Budget,Operating Expense,4,Forecast,Budget,740533773.88,783403723.39,-42869949.51,-0.054723,True,Favorable
+FY2026 Forecast vs Budget,EBITDA,5,Forecast,Budget,164381051.4,158771587.81,5609463.59,0.03533,True,Favorable
+FY2026 Forecast vs Budget,Depreciation,6,Forecast,Budget,15506250.08,15677083.36,-170833.28,-0.010897,True,Favorable
+FY2026 Forecast vs Budget,EBIT,7,Forecast,Budget,148874801.32,143094504.45,5780296.87,0.040395,True,Favorable
+FY2026 Forecast vs Budget,Interest,8,Forecast,Budget,5719573.44,5436426.24,283147.2,0.052083,False,Unfavorable
+FY2026 Forecast vs Budget,Tax,9,Forecast,Budget,35788806.99,34414519.55,1374287.44,0.039933,False,Unfavorable
+FY2026 Forecast vs Budget,Net Income,10,Forecast,Budget,107366420.89,103243558.66,4122862.23,0.039933,True,Favorable
+FY2025 Actual vs FY2024 Actual,Revenue,1,FY2025 Actual,FY2024 Actual,1611023228.83,1414611295.85,196411932.98,0.138845,True,Favorable
+FY2025 Actual vs FY2024 Actual,COGS,2,FY2025 Actual,FY2024 Actual,801408172.06,705666391.84,95741780.22,0.135676,False,Unfavorable
+FY2025 Actual vs FY2024 Actual,Gross Profit,3,FY2025 Actual,FY2024 Actual,809615056.77,708944904.01,100670152.76,0.142,True,Favorable
+FY2025 Actual vs FY2024 Actual,Operating Expense,4,FY2025 Actual,FY2024 Actual,667272101.74,586058174.15,81213927.59,0.138577,False,Unfavorable
+FY2025 Actual vs FY2024 Actual,EBITDA,5,FY2025 Actual,FY2024 Actual,142342955.03,122886729.86,19456225.17,0.158326,True,Favorable
+FY2025 Actual vs FY2024 Actual,Depreciation,6,FY2025 Actual,FY2024 Actual,10952708.37,5306666.7,5646041.67,1.063953,False,Unfavorable
+FY2025 Actual vs FY2024 Actual,EBIT,7,FY2025 Actual,FY2024 Actual,131390246.66,117580063.16,13810183.5,0.117453,True,Favorable
+FY2025 Actual vs FY2024 Actual,Interest,8,FY2025 Actual,FY2024 Actual,5662944.0,5342400.0,320544.0,0.06,False,Unfavorable
+FY2025 Actual vs FY2024 Actual,Tax,9,FY2025 Actual,FY2024 Actual,31431825.67,28059415.79,3372409.88,0.120188,False,Unfavorable
+FY2025 Actual vs FY2024 Actual,Net Income,10,FY2025 Actual,FY2024 Actual,94295476.99,84178247.37,10117229.62,0.120188,True,Favorable

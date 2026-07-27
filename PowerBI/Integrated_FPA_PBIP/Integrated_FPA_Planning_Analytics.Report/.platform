@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Integrated FP&A Planning Analytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a7cb2e26-3604-5b9a-b6b2-71fee199dd72"
+  }
+}

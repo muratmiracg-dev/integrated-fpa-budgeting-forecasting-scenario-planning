@@ -1,0 +1,13 @@
+CostCenterID,CostCenterName,Department,BudgetOwner,BudgetVersion,Status,SubmittedDate,ApprovalDate,ReviewRounds,ControllerComment
+CC-101,Türkiye E-Commerce,Sales,Commercial Director,FY2026 Budget v1,Approved,2025-10-06,2025-10-16,1,Approved within planning guardrails
+CC-102,Europe E-Commerce,Sales,Commercial Director,FY2026 Budget v1,Approved,2025-10-08,2025-10-21,2,Approved within planning guardrails
+CC-103,MENA Marketplace,Sales,Commercial Director,FY2026 Budget v1,Approved with Actions,2025-10-10,2025-10-26,3,Phasing adjusted and approved
+CC-201,Flagship Retail,Sales,Commercial Director,FY2026 Budget v1,Approved,2025-10-12,2025-10-22,1,Approved within planning guardrails
+CC-202,Regional Retail,Sales,Commercial Director,FY2026 Budget v1,Approved,2025-10-14,2025-10-27,2,Approved within planning guardrails
+CC-301,Türkiye Wholesale,Sales,Commercial Director,FY2026 Budget v1,Approved,2025-10-16,2025-11-01,3,Approved within planning guardrails
+CC-302,Export Wholesale,Sales,Commercial Director,FY2026 Budget v1,Approved with Actions,2025-10-18,2025-10-28,1,Phasing adjusted and approved
+CC-401,Subscription Growth,Customer Success,Customer Experience Director,FY2026 Budget v1,Approved,2025-10-20,2025-11-02,2,Approved within planning guardrails
+CC-501,Brand & Performance Marketing,Marketing,Marketing Director,FY2026 Budget v1,Approved,2025-10-22,2025-11-07,3,Approved within planning guardrails
+CC-601,Fulfillment & Logistics,Operations,Operations Director,FY2026 Budget v1,Approved with Actions,2025-10-24,2025-11-03,1,Phasing adjusted and approved
+CC-701,Technology & Data,Technology,CTO,FY2026 Budget v1,Approved,2025-10-26,2025-11-08,2,Approved within planning guardrails
+CC-801,"People, Finance & Corporate",Finance & Corporate,CFO,FY2026 Budget v1,Approved,2025-10-28,2025-11-13,3,Approved within planning guardrails

@@ -1,0 +1,19 @@
+AccountKey,AccountCode,AccountName,AccountGroup,Statement,NaturalSign,PrimaryDriver
+A4000,4000,Digital Commerce Revenue,Revenue,Income Statement,Revenue,Digital revenue
+A4010,4010,Retail Revenue,Revenue,Income Statement,Revenue,Retail revenue
+A4020,4020,Wholesale Revenue,Revenue,Income Statement,Revenue,Wholesale revenue
+A4030,4030,Subscription Revenue,Revenue,Income Statement,Revenue,Subscription revenue
+A5000,5000,Product & Service Cost,COGS,Income Statement,Expense,Revenue percentage
+A5010,5010,Payment & Channel Fees,COGS,Income Statement,Expense,Revenue percentage
+A5020,5020,Variable Fulfillment Cost,COGS,Income Statement,Expense,Volume and revenue
+A6000,6000,Salaries,Operating Expense,Income Statement,Expense,Headcount
+A6010,6010,Benefits & Payroll Taxes,Operating Expense,Income Statement,Expense,Salaries
+A6100,6100,Marketing & Growth,Operating Expense,Income Statement,Expense,Revenue percentage
+A6200,6200,Logistics & Warehousing,Operating Expense,Income Statement,Expense,Volume and inflation
+A6300,6300,Technology & Software,Operating Expense,Income Statement,Expense,Headcount and contracts
+A6400,6400,Facilities & Rent,Operating Expense,Income Statement,Expense,Locations and inflation
+A6500,6500,Professional Services,Operating Expense,Income Statement,Expense,Project plan
+A6600,6600,Travel & Other,Operating Expense,Income Statement,Expense,Headcount
+A6700,6700,Depreciation & Amortization,Depreciation,Income Statement,Expense,Capex schedule
+A6800,6800,Net Interest Expense,Interest,Income Statement,Expense,Debt schedule
+A6900,6900,Income Tax,Tax,Income Statement,Expense,Taxable income

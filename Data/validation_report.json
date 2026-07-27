@@ -1,0 +1,110 @@
+{
+  "project": "Integrated FP&A Budgeting, Forecasting & Scenario Planning System",
+  "all_passed": true,
+  "passed_checks": 17,
+  "total_checks": 17,
+  "checks": [
+    {
+      "check": "Actual month coverage",
+      "passed": true,
+      "detail": "2023-01-01 to 2026-06-01 / 42 months",
+      "category": "Coverage"
+    },
+    {
+      "check": "Budget month coverage",
+      "passed": true,
+      "detail": "12 FY2026 months",
+      "category": "Coverage"
+    },
+    {
+      "check": "Rolling forecast coverage",
+      "passed": true,
+      "detail": "18 months ending 2027-06-01",
+      "category": "Coverage"
+    },
+    {
+      "check": "Account foreign keys",
+      "passed": true,
+      "detail": "All account keys resolve to the chart of accounts",
+      "category": "Referential integrity"
+    },
+    {
+      "check": "Cost center foreign keys",
+      "passed": true,
+      "detail": "All cost-center keys resolve",
+      "category": "Referential integrity"
+    },
+    {
+      "check": "Non-negative ledger amounts",
+      "passed": true,
+      "detail": "Natural-sign storage uses non-negative amounts",
+      "category": "Financial integrity"
+    },
+    {
+      "check": "P&L identities",
+      "passed": true,
+      "detail": "Gross profit and EBITDA reconcile on every monthly row",
+      "category": "Financial integrity"
+    },
+    {
+      "check": "Net income identity",
+      "passed": true,
+      "detail": "Net income reconciles to EBITDA, D&A, interest and tax",
+      "category": "Financial integrity"
+    },
+    {
+      "check": "Cash roll-forward",
+      "passed": true,
+      "detail": "Ending cash equals beginning cash plus net cash flow",
+      "category": "Financial integrity"
+    },
+    {
+      "check": "Working capital identity",
+      "passed": true,
+      "detail": "NWC equals AR plus inventory less AP",
+      "category": "Financial integrity"
+    },
+    {
+      "check": "Scenario revenue ordering",
+      "passed": true,
+      "detail": "Upside > Base > Downside > Stress",
+      "category": "Scenario engine"
+    },
+    {
+      "check": "Scenario EBITDA ordering",
+      "passed": true,
+      "detail": "EBITDA follows the expected scenario hierarchy",
+      "category": "Scenario engine"
+    },
+    {
+      "check": "One champion forecast model per business unit",
+      "passed": true,
+      "detail": "4 business-unit champions",
+      "category": "Forecasting"
+    },
+    {
+      "check": "Forecast accuracy threshold",
+      "passed": true,
+      "detail": "Champion WAPE range 1.00% to 3.64%",
+      "category": "Forecasting"
+    },
+    {
+      "check": "Budget governance complete",
+      "passed": true,
+      "detail": "All 12 budget-owner submissions are approved",
+      "category": "Governance"
+    },
+    {
+      "check": "Capex schedule non-negative",
+      "passed": true,
+      "detail": "No negative spend, depreciation or NBV values",
+      "category": "Capex"
+    },
+    {
+      "check": "Monte Carlo simulation count",
+      "passed": true,
+      "detail": "5,000 finite simulation rows",
+      "category": "Risk analytics"
+    }
+  ]
+}

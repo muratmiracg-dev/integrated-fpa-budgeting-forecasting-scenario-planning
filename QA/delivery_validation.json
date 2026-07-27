@@ -1,0 +1,114 @@
+{
+  "project": "Integrated FP&A Budgeting, Forecasting & Scenario Planning System",
+  "all_passed": true,
+  "passed_checks": 12,
+  "total_checks": 12,
+  "checks": [
+    {
+      "category": "Analytics",
+      "check": "Financial and data controls",
+      "passed": true,
+      "detail": "17/17 passed"
+    },
+    {
+      "category": "Analytics",
+      "check": "SQLite analytical database",
+      "passed": true,
+      "detail": "39 tables/views; 4 scenarios"
+    },
+    {
+      "category": "Excel",
+      "check": "Excel workbook structure",
+      "passed": true,
+      "detail": "31 sheets; 826 formulas"
+    },
+    {
+      "category": "Excel",
+      "check": "Excel formula-error scan",
+      "passed": true,
+      "detail": "0 formula-error matches"
+    },
+    {
+      "category": "Power BI",
+      "check": "Power BI PBIP structure",
+      "passed": true,
+      "detail": "11 pages; 89 visuals; 40 measures"
+    },
+    {
+      "category": "Presentation",
+      "check": "English presentation",
+      "passed": true,
+      "detail": "20 slides; 20 speaker-note pages"
+    },
+    {
+      "category": "Presentation",
+      "check": "Turkish presentation",
+      "passed": true,
+      "detail": "20 slides; 20 speaker-note pages"
+    },
+    {
+      "category": "Report",
+      "check": "Vector executive PDF",
+      "passed": true,
+      "detail": "12 pages; selectable text on 12 pages"
+    },
+    {
+      "category": "Images",
+      "check": "HD portfolio images",
+      "passed": true,
+      "detail": "8 images at 1920\u00d71080 or higher"
+    },
+    {
+      "category": "Documentation",
+      "check": "LinkedIn character limit",
+      "passed": true,
+      "detail": "1870 characters"
+    },
+    {
+      "category": "Documentation",
+      "check": "README local links",
+      "passed": true,
+      "detail": "26 links checked; 0 missing"
+    },
+    {
+      "category": "Delivery",
+      "check": "Delivery package integrity",
+      "passed": true,
+      "detail": "Full and compact ZIP packages passed CRC validation"
+    }
+  ],
+  "image_dimensions": {
+    "executive-overview.png": [
+      1920,
+      1080
+    ],
+    "solution-architecture.png": [
+      1920,
+      1080
+    ],
+    "budget-vs-forecast.png": [
+      1920,
+      1080
+    ],
+    "forecast-governance.png": [
+      1920,
+      1080
+    ],
+    "cash-liquidity.png": [
+      1920,
+      1080
+    ],
+    "scenario-risk.png": [
+      1920,
+      1080
+    ],
+    "presentation-cover-en.png": [
+      1920,
+      1080
+    ],
+    "presentation-cover-tr.png": [
+      1920,
+      1080
+    ]
+  }
+}
