@@ -10,7 +10,6 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 from .config import ACTUAL_END, DATA_DIR, RANDOM_SEED, ROLLING_FORECAST_END
 
-
 MODEL_NAMES = (
     "Seasonal Naive",
     "Linear Trend + Seasonality",

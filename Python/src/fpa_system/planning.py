@@ -5,7 +5,6 @@ import pandas as pd
 
 from .config import ACTUAL_END, DATA_DIR, REVENUE_ACCOUNT_BY_BU, ROLLING_FORECAST_END
 
-
 P_AND_L_GROUPS = (
     "Revenue",
     "COGS",

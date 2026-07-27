@@ -6,7 +6,6 @@ import pandas as pd
 from .config import ACTUAL_END, AS_OF_DATE, COMPANY_NAME, DATA_DIR
 from .planning import aggregate_pnl
 
-
 LINE_ITEMS = [
     ("Revenue", "RevenueTRY", 1, True),
     ("COGS", "COGSTRY", 2, False),

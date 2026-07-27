@@ -467,7 +467,9 @@ def _fixed_opex(
         marketing += 180_000 * inflation
         technology += 420_000
 
-    shock = lambda scale=0.02: float(rng.normal(1.0, scale))
+    def shock(scale: float = 0.02) -> float:
+        return float(rng.normal(1.0, scale))
+
     return {
         "A6100": max(marketing * shock(), 0),
         "A6200": max(logistics * shock(), 0),
