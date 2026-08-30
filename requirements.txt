@@ -6,4 +6,4 @@ matplotlib==3.10.8
 reportlab==4.4.9
 pypdf==6.10.0
 pytest==8.4.2
-ruff==0.12.5
+ruff==0.16.4
