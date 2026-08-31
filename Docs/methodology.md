@@ -44,6 +44,8 @@ Revenue
 
 Cash is rolled forward from beginning cash through cash from operations, capex, financing, and other cash movements. Net working capital is calculated as accounts receivable plus inventory less accounts payable.
 
+Before P&L aggregation, the pipeline enforces a many-to-one account mapping contract. Every ledger row must resolve to exactly one chart-of-accounts entry, account keys must be unique in the dimension, and monetary amounts must be finite numeric values. The pipeline fails fast instead of silently excluding malformed or unmapped ledger rows.
+
 ## Forecast methodology
 
 Candidate models include:

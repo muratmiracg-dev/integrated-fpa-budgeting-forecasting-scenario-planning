@@ -20,9 +20,53 @@ def aggregate_pnl(
     accounts: pd.DataFrame,
     group_columns: list[str],
 ) -> pd.DataFrame:
-    enriched = fact.merge(
-        accounts[["AccountKey", "AccountGroup"]], on="AccountKey", how="left"
+    required_fact_columns = {"AccountKey", "AmountTRY", *group_columns}
+    missing_fact_columns = sorted(required_fact_columns - set(fact.columns))
+    if missing_fact_columns:
+        raise ValueError(
+            "fact is missing required columns: " + ", ".join(missing_fact_columns)
+        )
+
+    required_account_columns = {"AccountKey", "AccountGroup"}
+    missing_account_columns = sorted(required_account_columns - set(accounts.columns))
+    if missing_account_columns:
+        raise ValueError(
+            "accounts is missing required columns: " + ", ".join(missing_account_columns)
+        )
+
+    duplicate_keys = (
+        accounts.loc[accounts["AccountKey"].duplicated(keep=False), "AccountKey"]
+        .drop_duplicates()
+        .astype(str)
+        .sort_values()
+        .tolist()
     )
+    if duplicate_keys:
+        raise ValueError(
+            "accounts contains duplicate AccountKey values: " + ", ".join(duplicate_keys)
+        )
+
+    enriched = fact.merge(
+        accounts[["AccountKey", "AccountGroup"]],
+        on="AccountKey",
+        how="left",
+        validate="many_to_one",
+    )
+    unmapped_keys = (
+        enriched.loc[enriched["AccountGroup"].isna(), "AccountKey"]
+        .drop_duplicates()
+        .astype(str)
+        .sort_values()
+        .tolist()
+    )
+    if unmapped_keys:
+        raise ValueError("Unmapped AccountKey values: " + ", ".join(unmapped_keys))
+
+    amounts = pd.to_numeric(enriched["AmountTRY"], errors="coerce")
+    if not np.isfinite(amounts).all():
+        raise ValueError("AmountTRY must contain only finite numeric values")
+    enriched["AmountTRY"] = amounts
+
     grouped = (
         enriched.groupby(group_columns + ["AccountGroup"], as_index=False)["AmountTRY"]
         .sum()
