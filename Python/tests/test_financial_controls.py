@@ -3,6 +3,59 @@ import unittest
 import numpy as np
 import pandas as pd
 from fpa_system.config import DATA_DIR
+from fpa_system.planning import aggregate_pnl
+
+
+class PnlAggregationInputTests(unittest.TestCase):
+    def setUp(self):
+        self.fact = pd.DataFrame(
+            {
+                "Month": [pd.Timestamp("2026-01-01"), pd.Timestamp("2026-01-01")],
+                "AccountKey": ["A4000", "A5000"],
+                "AmountTRY": [100.0, 40.0],
+            }
+        )
+        self.accounts = pd.DataFrame(
+            {
+                "AccountKey": ["A4000", "A5000"],
+                "AccountGroup": ["Revenue", "COGS"],
+            }
+        )
+
+    def test_rejects_unmapped_account_keys(self):
+        fact = pd.concat(
+            [
+                self.fact,
+                pd.DataFrame(
+                    {
+                        "Month": [pd.Timestamp("2026-01-01")],
+                        "AccountKey": ["A9999"],
+                        "AmountTRY": [25.0],
+                    }
+                ),
+            ],
+            ignore_index=True,
+        )
+
+        with self.assertRaisesRegex(ValueError, "Unmapped AccountKey values: A9999"):
+            aggregate_pnl(fact, self.accounts, ["Month"])
+
+    def test_rejects_duplicate_chart_of_accounts_keys(self):
+        accounts = pd.concat([self.accounts, self.accounts.iloc[[0]]], ignore_index=True)
+
+        with self.assertRaisesRegex(
+            ValueError, "accounts contains duplicate AccountKey values: A4000"
+        ):
+            aggregate_pnl(self.fact, accounts, ["Month"])
+
+    def test_rejects_non_finite_amounts(self):
+        fact = self.fact.copy()
+        fact.loc[0, "AmountTRY"] = np.inf
+
+        with self.assertRaisesRegex(
+            ValueError, "AmountTRY must contain only finite numeric values"
+        ):
+            aggregate_pnl(fact, self.accounts, ["Month"])
 
 
 class FinancialControlTests(unittest.TestCase):
