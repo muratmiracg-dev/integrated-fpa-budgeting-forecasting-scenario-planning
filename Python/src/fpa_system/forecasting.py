@@ -102,8 +102,19 @@ def _fit_predict(
 
 
 def _metrics(actual: np.ndarray, predicted: np.ndarray) -> dict[str, float]:
+    actual = np.asarray(actual, dtype=float)
+    predicted = np.asarray(predicted, dtype=float)
+    if actual.ndim != 1 or predicted.shape != actual.shape or actual.size == 0:
+        raise ValueError("actual and predicted must be non-empty aligned one-dimensional arrays")
+    if not np.isfinite(actual).all() or not np.isfinite(predicted).all():
+        raise ValueError("actual and predicted must contain only finite values")
+    if (actual < 0).any() or (predicted < 0).any():
+        raise ValueError("revenue values must be non-negative")
     errors = predicted - actual
-    denominator = max(float(np.abs(actual).sum()), 1.0)
+    denominator = float(np.abs(actual).sum())
+    # With no realized revenue, retain absolute error rather than hiding overprediction.
+    if denominator == 0:
+        denominator = 1.0
     wape = float(np.abs(errors).sum() / denominator)
     bias = float(errors.sum() / denominator)
     return {
