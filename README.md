@@ -200,3 +200,7 @@ All organizations, transactions, values, and management observations in this rep
 
 **Murat Miraç Gedik**  
 FP&A • Business Intelligence • Forecasting • SQL • Python • Power BI • Microsoft Excel
+
+### Analytical input and export controls
+
+Forecast WAPE and bias divide by the actual total revenue, including totals below one currency unit, preserving ratios across unit scales. For zero actual revenue, the absolute error sum is retained as the penalty (zero for a correct zero forecast). Inputs must be non-empty aligned one-dimensional arrays with finite non-negative revenues; invalid inputs raise ValueError.
