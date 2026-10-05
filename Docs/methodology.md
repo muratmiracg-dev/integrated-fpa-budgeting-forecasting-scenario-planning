@@ -65,6 +65,10 @@ Upside, Base, Downside, and Stress cases change connected assumptions for revenu
 
 Monte Carlo trials sample uncertainty around revenue, margin, expenses, and working-capital conditions. Output is summarized through P10, P50, P90, downside probabilities, and ending-cash distributions.
 
+The simulation requires an integer trial count of at least two. Invalid counts
+are rejected before source data is read, preventing empty or statistically
+meaningless risk summaries from being published.
+
 ## Reproducibility
 
 Run:
