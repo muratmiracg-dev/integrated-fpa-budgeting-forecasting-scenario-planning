@@ -18,6 +18,25 @@ MODEL_NAMES = (
 )
 
 
+def _validated_model_inputs(
+    train_dates: pd.Series,
+    train_values: np.ndarray,
+    predict_dates: pd.Series | pd.DatetimeIndex,
+) -> tuple[pd.DatetimeIndex, np.ndarray, pd.DatetimeIndex]:
+    dates = pd.DatetimeIndex(pd.to_datetime(train_dates))
+    values = np.asarray(train_values, dtype=float)
+    future = pd.DatetimeIndex(pd.to_datetime(predict_dates))
+    if values.ndim != 1 or not len(values) or len(dates) != len(values):
+        raise ValueError("training dates and values must be non-empty aligned vectors")
+    if dates.hasnans or future.hasnans or dates.to_period("M").duplicated().any():
+        raise ValueError("model dates must be valid with unique training months")
+    if not dates.is_monotonic_increasing or not np.isfinite(values).all() or (values < 0).any():
+        raise ValueError("training values must be finite, non-negative, and chronological")
+    if len(future) and (not future.is_monotonic_increasing or future.min() <= dates.max()):
+        raise ValueError("prediction dates must be chronological and after training data")
+    return dates, values, future
+
+
 def _feature_matrix(
     dates: pd.Series | pd.DatetimeIndex,
     origin: pd.Timestamp,
@@ -68,6 +87,9 @@ def _fit_predict(
     train_values: np.ndarray,
     predict_dates: pd.Series | pd.DatetimeIndex,
 ) -> np.ndarray:
+    train_dates, train_values, predict_dates = _validated_model_inputs(
+        train_dates, train_values, predict_dates
+    )
     origin = pd.Timestamp(train_dates.min())
     if model_name == "Seasonal Naive":
         return _seasonal_naive(train_dates, train_values, predict_dates)
