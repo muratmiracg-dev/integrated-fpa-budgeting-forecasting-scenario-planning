@@ -20,12 +20,14 @@ def aggregate_pnl(
     accounts: pd.DataFrame,
     group_columns: list[str],
 ) -> pd.DataFrame:
+    if not group_columns or len(group_columns) != len(set(group_columns)):
+        raise ValueError("group_columns must be a non-empty list of unique column names")
+    if fact.empty:
+        raise ValueError("fact must contain at least one financial record")
     required_fact_columns = {"AccountKey", "AmountTRY", *group_columns}
     missing_fact_columns = sorted(required_fact_columns - set(fact.columns))
     if missing_fact_columns:
-        raise ValueError(
-            "fact is missing required columns: " + ", ".join(missing_fact_columns)
-        )
+        raise ValueError("fact is missing required columns: " + ", ".join(missing_fact_columns))
 
     required_account_columns = {"AccountKey", "AccountGroup"}
     missing_account_columns = sorted(required_account_columns - set(accounts.columns))
@@ -108,9 +110,7 @@ def build_rolling_forecast() -> pd.DataFrame:
     cost_centers = pd.read_csv(DATA_DIR / "dim_cost_center.csv")
     headcount = pd.read_csv(DATA_DIR / "fact_headcount.csv", parse_dates=["Month"])
     capex = pd.read_csv(DATA_DIR / "fact_capex.csv", parse_dates=["Month"])
-    revenue_forecast = pd.read_csv(
-        DATA_DIR / "revenue_forecast.csv", parse_dates=["Month"]
-    )
+    revenue_forecast = pd.read_csv(DATA_DIR / "revenue_forecast.csv", parse_dates=["Month"])
     account_group = accounts.set_index("AccountKey")["AccountGroup"].to_dict()
 
     actual_2026 = actuals[
@@ -122,17 +122,15 @@ def build_rolling_forecast() -> pd.DataFrame:
     actual_2026["SourceSystem"] = "Q2 2026 Rolling Forecast - Closed Actual"
     rows = actual_2026.to_dict("records")
 
-    historical_revenue = actuals[
-        actuals["AccountKey"].isin(REVENUE_ACCOUNT_BY_BU.values())
-    ]
+    historical_revenue = actuals[actuals["AccountKey"].isin(REVENUE_ACCOUNT_BY_BU.values())]
     shares = (
         historical_revenue[historical_revenue["Month"].dt.year == 2025]
         .groupby(["BusinessUnit", "CostCenterID"], as_index=False)["AmountTRY"]
         .sum()
     )
-    shares["Share"] = shares["AmountTRY"] / shares.groupby("BusinessUnit")[
-        "AmountTRY"
-    ].transform("sum")
+    shares["Share"] = shares["AmountTRY"] / shares.groupby("BusinessUnit")["AmountTRY"].transform(
+        "sum"
+    )
     share_lookup = shares.set_index(["BusinessUnit", "CostCenterID"])["Share"].to_dict()
 
     h1 = actuals[
@@ -145,9 +143,7 @@ def build_rolling_forecast() -> pd.DataFrame:
         .sum()
         .to_dict()
     )
-    h1_account = (
-        h1.groupby(["CostCenterID", "AccountKey"])["AmountTRY"].sum().to_dict()
-    )
+    h1_account = h1.groupby(["CostCenterID", "AccountKey"])["AmountTRY"].sum().to_dict()
     ratio_lookup: dict[tuple[str, str], float] = {}
     for (cost_center, account_key), value in h1_account.items():
         revenue = h1_revenue.get(cost_center, 0)
@@ -172,9 +168,9 @@ def build_rolling_forecast() -> pd.DataFrame:
         .set_index(["Month", "CostCenterID"])["DepreciationTRY"]
         .to_dict()
     )
-    forecast_lookup = revenue_forecast.set_index(
-        ["Month", "BusinessUnit"]
-    )["ForecastRevenueTRY"].to_dict()
+    forecast_lookup = revenue_forecast.set_index(["Month", "BusinessUnit"])[
+        "ForecastRevenueTRY"
+    ].to_dict()
     future_months = pd.date_range(
         pd.Timestamp(ACTUAL_END) + pd.DateOffset(months=1),
         pd.Timestamp(ROLLING_FORECAST_END),
@@ -198,9 +194,7 @@ def build_rolling_forecast() -> pd.DataFrame:
             }
             revenue = 0.0
             if business_unit in REVENUE_ACCOUNT_BY_BU:
-                business_unit_forecast = float(
-                    forecast_lookup[(month, business_unit)]
-                )
+                business_unit_forecast = float(forecast_lookup[(month, business_unit)])
                 revenue = business_unit_forecast * float(
                     share_lookup.get((business_unit, cost_center), 0)
                 )
@@ -251,14 +245,14 @@ def build_rolling_forecast() -> pd.DataFrame:
                 )
             if cost_center == "CC-801":
                 interest = float(base_2025.get((cost_center, "A6800"), 0)) * 0.96
-                month_rows.append(
-                    {**base, "AccountKey": "A6800", "AmountTRY": round(interest, 2)}
-                )
+                month_rows.append({**base, "AccountKey": "A6800", "AmountTRY": round(interest, 2)})
 
         temp = pd.DataFrame(month_rows)
-        totals = temp.assign(
-            AccountGroup=temp["AccountKey"].map(account_group)
-        ).groupby("AccountGroup")["AmountTRY"].sum()
+        totals = (
+            temp.assign(AccountGroup=temp["AccountKey"].map(account_group))
+            .groupby("AccountGroup")["AmountTRY"]
+            .sum()
+        )
         ebt = (
             float(totals.get("Revenue", 0))
             - float(totals.get("COGS", 0))
@@ -283,12 +277,8 @@ def build_rolling_forecast() -> pd.DataFrame:
         )
         rows.extend(month_rows)
 
-    forecast = pd.DataFrame(rows).sort_values(
-        ["Month", "CostCenterID", "AccountKey"]
-    )
-    forecast.to_csv(
-        DATA_DIR / "fact_forecast.csv", index=False, date_format="%Y-%m-%d"
-    )
+    forecast = pd.DataFrame(rows).sort_values(["Month", "CostCenterID", "AccountKey"])
+    forecast.to_csv(DATA_DIR / "fact_forecast.csv", index=False, date_format="%Y-%m-%d")
     return forecast
 
 
@@ -360,9 +350,7 @@ def build_working_capital_and_cash_flow() -> tuple[pd.DataFrame, pd.DataFrame]:
             )
     working = pd.DataFrame(working_rows)
 
-    capex_monthly = (
-        capex.groupby(["Month", "Version"], as_index=False)["CapexSpendTRY"].sum()
-    )
+    capex_monthly = capex.groupby(["Month", "Version"], as_index=False)["CapexSpendTRY"].sum()
     cash_rows: list[dict] = []
     ending_cash_actual: dict[pd.Timestamp, float] = {}
     for version in ("Actual", "Budget", "Forecast"):
@@ -411,12 +399,8 @@ def build_working_capital_and_cash_flow() -> tuple[pd.DataFrame, pd.DataFrame]:
                 ending_cash_actual[month] = ending_cash
 
     cash_flow = pd.DataFrame(cash_rows)
-    working.to_csv(
-        DATA_DIR / "fact_working_capital.csv", index=False, date_format="%Y-%m-%d"
-    )
-    cash_flow.to_csv(
-        DATA_DIR / "fact_cash_flow.csv", index=False, date_format="%Y-%m-%d"
-    )
+    working.to_csv(DATA_DIR / "fact_working_capital.csv", index=False, date_format="%Y-%m-%d")
+    cash_flow.to_csv(DATA_DIR / "fact_cash_flow.csv", index=False, date_format="%Y-%m-%d")
     return working, cash_flow
 
 
