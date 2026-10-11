@@ -57,6 +57,13 @@ class PnlAggregationInputTests(unittest.TestCase):
         ):
             aggregate_pnl(fact, self.accounts, ["Month"])
 
+    def test_rejects_empty_or_ambiguous_aggregation_dimensions(self):
+        for columns in ([], ["Month", "Month"]):
+            with self.subTest(columns=columns), self.assertRaisesRegex(ValueError, "group_columns"):
+                aggregate_pnl(self.fact, self.accounts, columns)
+        with self.assertRaisesRegex(ValueError, "at least one financial record"):
+            aggregate_pnl(self.fact.iloc[0:0], self.accounts, ["Month"])
+
 
 class FinancialControlTests(unittest.TestCase):
     @classmethod
@@ -64,9 +71,7 @@ class FinancialControlTests(unittest.TestCase):
         cls.monthly = pd.read_csv(DATA_DIR / "monthly_pnl.csv")
         cls.cash = pd.read_csv(DATA_DIR / "fact_cash_flow.csv")
         cls.working = pd.read_csv(DATA_DIR / "fact_working_capital.csv")
-        cls.scenarios = pd.read_csv(DATA_DIR / "scenario_summary.csv").set_index(
-            "Scenario"
-        )
+        cls.scenarios = pd.read_csv(DATA_DIR / "scenario_summary.csv").set_index("Scenario")
         cls.models = pd.read_csv(DATA_DIR / "forecast_model_comparison.csv")
 
     def test_gross_profit_and_ebitda_reconcile(self):
@@ -80,8 +85,7 @@ class FinancialControlTests(unittest.TestCase):
         self.assertTrue(
             np.allclose(
                 self.monthly["EBITDATRY"],
-                self.monthly["GrossProfitTRY"]
-                - self.monthly["OperatingExpenseTRY"],
+                self.monthly["GrossProfitTRY"] - self.monthly["OperatingExpenseTRY"],
                 atol=1,
             )
         )
@@ -121,9 +125,7 @@ class FinancialControlTests(unittest.TestCase):
         )
 
     def test_one_champion_model_per_business_unit(self):
-        champions = self.models[
-            self.models["ChampionFlag"].astype(str).str.lower() == "true"
-        ]
+        champions = self.models[self.models["ChampionFlag"].astype(str).str.lower() == "true"]
         self.assertEqual(champions["BusinessUnit"].nunique(), 4)
         self.assertTrue(champions.groupby("BusinessUnit").size().eq(1).all())
 
