@@ -1,5 +1,7 @@
 # Integrated FP&A Budgeting, Forecasting & Scenario Planning System
 
+P&L aggregation rejects empty ledgers and empty or duplicated grouping dimensions, preventing ambiguous management totals from being published.
+
 ![Executive Overview](Images/executive-overview.png)
 
 An end-to-end Financial Planning & Analysis portfolio project that connects historical actuals, the FY2026 budget, an 18-month rolling forecast, P&L, cash flow, working capital, workforce, capex, scenario planning, and Monte Carlo risk analysis in one governed decision framework.
