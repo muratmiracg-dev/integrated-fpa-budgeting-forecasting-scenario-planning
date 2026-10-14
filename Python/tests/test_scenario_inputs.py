@@ -14,3 +14,8 @@ def test_monte_carlo_rejects_insufficient_iterations(iterations: int) -> None:
 def test_monte_carlo_rejects_non_integer_iterations(iterations: object) -> None:
     with pytest.raises(TypeError, match="must be an integer"):
         run_monte_carlo(iterations)  # type: ignore[arg-type]
+
+
+def test_monte_carlo_rejects_resource_exhausting_iteration_count() -> None:
+    with pytest.raises(ValueError, match="cannot exceed 1,000,000"):
+        run_monte_carlo(1_000_001)

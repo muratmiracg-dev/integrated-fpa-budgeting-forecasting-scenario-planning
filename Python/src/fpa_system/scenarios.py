@@ -230,6 +230,8 @@ def run_monte_carlo(iterations: int = 5000) -> tuple[pd.DataFrame, pd.DataFrame]
         raise TypeError("iterations must be an integer")
     if iterations < 2:
         raise ValueError("iterations must be at least 2")
+    if iterations > 1_000_000:
+        raise ValueError("iterations cannot exceed 1,000,000")
     rng = np.random.default_rng(RANDOM_SEED)
     scenario_summary = pd.read_csv(DATA_DIR / "scenario_summary.csv")
     base = scenario_summary[scenario_summary["Scenario"] == "Base"].iloc[0]

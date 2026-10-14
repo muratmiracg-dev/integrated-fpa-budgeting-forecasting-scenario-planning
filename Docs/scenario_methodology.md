@@ -4,6 +4,10 @@
 
 Scenario planning tests management decisions under coherent operating conditions. It is not a collection of isolated percentage changes.
 
+The Monte Carlo engine accepts integer iteration counts from 2 through 1,000,000. The upper
+bound fails fast on accidental or untrusted resource-exhausting requests while preserving a
+wide range for sensitivity analysis.
+
 ## Scenario hierarchy
 
 | Scenario | Interpretation |
