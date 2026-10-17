@@ -8,6 +8,10 @@ The Monte Carlo engine accepts integer iteration counts from 2 through 1,000,000
 bound fails fast on accidental or untrusted resource-exhausting requests while preserving a
 wide range for sensitivity analysis.
 
+Scenario configuration also fails closed: each named scenario must provide the complete driver
+set, multipliers must be finite and positive, and working-capital day deltas must be bounded
+integers. Invalid assumptions cannot flow into management P&L or cash projections.
+
 ## Scenario hierarchy
 
 | Scenario | Interpretation |
