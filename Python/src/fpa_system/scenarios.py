@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import math
+import numbers
+
 import numpy as np
 import pandas as pd
 
@@ -7,7 +10,41 @@ from .config import ACTUAL_END, DATA_DIR, RANDOM_SEED, SCENARIOS
 from .planning import aggregate_pnl
 
 
+def _validate_scenario_config(scenarios: dict[str, dict[str, float]]) -> None:
+    required = {
+        "revenue_multiplier",
+        "cogs_ratio_multiplier",
+        "opex_multiplier",
+        "dso_delta",
+        "dio_delta",
+        "dpo_delta",
+    }
+    if not scenarios or any(not str(name).strip() for name in scenarios):
+        raise ValueError("Scenario catalog must contain named scenarios")
+    for name, assumptions in scenarios.items():
+        if set(assumptions) != required:
+            raise ValueError(f"Scenario {name} must define the complete assumption contract")
+        multipliers = [assumptions[key] for key in required if key.endswith("multiplier")]
+        if any(
+            isinstance(value, bool)
+            or not isinstance(value, numbers.Real)
+            or not math.isfinite(float(value))
+            or value <= 0
+            for value in multipliers
+        ):
+            raise ValueError(f"Scenario {name} multipliers must be finite and positive")
+        deltas = [assumptions[key] for key in required if key.endswith("delta")]
+        if any(
+            isinstance(value, bool)
+            or not isinstance(value, numbers.Integral)
+            or not -365 <= value <= 365
+            for value in deltas
+        ):
+            raise ValueError(f"Scenario {name} working-capital deltas must be integers in range")
+
+
 def build_scenarios() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    _validate_scenario_config(SCENARIOS)
     forecast = pd.read_csv(DATA_DIR / "fact_forecast.csv", parse_dates=["Month"])
     accounts = pd.read_csv(DATA_DIR / "dim_account.csv")
     cost_centers = pd.read_csv(DATA_DIR / "dim_cost_center.csv")
