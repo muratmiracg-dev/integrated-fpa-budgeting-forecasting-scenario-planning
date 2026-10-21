@@ -19,3 +19,11 @@ from fpa_system.forecasting import _fit_predict
 def test_forecast_models_reject_invalid_training_contract(dates, values, future):
     with pytest.raises(ValueError):
         _fit_predict("Seasonal Naive", pd.Series(dates), values, pd.DatetimeIndex(future))
+
+
+@pytest.mark.parametrize("values", [[100.0, True], [100.0, "120"]])
+def test_forecast_rejects_coercible_training_values(values):
+    dates = pd.Series(pd.date_range("2025-01-01", periods=2, freq="MS"))
+    future = pd.date_range("2025-03-01", periods=1, freq="MS")
+    with pytest.raises(ValueError, match="native numeric"):
+        _fit_predict("Seasonal Naive", dates, np.array(values, dtype=object), future)
