@@ -1,6 +1,7 @@
 # Integrated FP&A Budgeting, Forecasting & Scenario Planning System
 
 P&L aggregation rejects empty ledgers and empty or duplicated grouping dimensions, preventing ambiguous management totals from being published.
+Forecast training fails closed on boolean and numeric-text observations instead of silently coercing them into financial history.
 
 ![Executive Overview](Images/executive-overview.png)
 
