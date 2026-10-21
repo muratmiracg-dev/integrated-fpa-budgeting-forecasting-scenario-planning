@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import math
+import numbers
 
 import numpy as np
 import pandas as pd
@@ -24,7 +25,15 @@ def _validated_model_inputs(
     predict_dates: pd.Series | pd.DatetimeIndex,
 ) -> tuple[pd.DatetimeIndex, np.ndarray, pd.DatetimeIndex]:
     dates = pd.DatetimeIndex(pd.to_datetime(train_dates))
-    values = np.asarray(train_values, dtype=float)
+    raw_values = np.asarray(train_values, dtype=object)
+    if raw_values.ndim != 1 or any(
+        isinstance(value, (bool, np.bool_)) or not isinstance(value, numbers.Real)
+        for value in raw_values
+    ):
+        raise ValueError(
+            "training values must contain native numeric values, not booleans or strings"
+        )
+    values = np.asarray(raw_values, dtype=float)
     future = pd.DatetimeIndex(pd.to_datetime(predict_dates))
     if values.ndim != 1 or not len(values) or len(dates) != len(values):
         raise ValueError("training dates and values must be non-empty aligned vectors")
@@ -151,9 +160,7 @@ def _metrics(actual: np.ndarray, predicted: np.ndarray) -> dict[str, float]:
 def _load_monthly_revenue() -> pd.DataFrame:
     actuals = pd.read_csv(DATA_DIR / "fact_actuals.csv", parse_dates=["Month"])
     accounts = pd.read_csv(DATA_DIR / "dim_account.csv")
-    revenue_accounts = accounts.loc[
-        accounts["AccountGroup"] == "Revenue", "AccountKey"
-    ].tolist()
+    revenue_accounts = accounts.loc[accounts["AccountGroup"] == "Revenue", "AccountKey"].tolist()
     return (
         actuals[actuals["AccountKey"].isin(revenue_accounts)]
         .groupby(["Month", "BusinessUnit"], as_index=False)["AmountTRY"]
@@ -217,9 +224,7 @@ def run_forecasting() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
                     }
                 )
 
-        unit_metrics = [
-            row for row in comparison_rows if row["BusinessUnit"] == business_unit
-        ]
+        unit_metrics = [row for row in comparison_rows if row["BusinessUnit"] == business_unit]
         champion = min(unit_metrics, key=lambda row: row["Score"])["Model"]
         for row in unit_metrics:
             row["ChampionFlag"] = row["Model"] == champion
@@ -228,12 +233,12 @@ def run_forecasting() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
         full_values = frame["RevenueTRY"].to_numpy(dtype=float)
         future = _fit_predict(champion, full_dates, full_values, forecast_months)
         test_pred = model_predictions[champion]
-        residual_std = float(
-            np.std(test["RevenueTRY"].to_numpy(dtype=float) - test_pred, ddof=1)
-        )
+        residual_std = float(np.std(test["RevenueTRY"].to_numpy(dtype=float) - test_pred, ddof=1))
         for month, forecast_value in zip(forecast_months, future, strict=True):
-            interval = 1.28 * residual_std * math.sqrt(
-                1 + max((month.year - 2026) * 12 + month.month - 6, 0) / 24
+            interval = (
+                1.28
+                * residual_std
+                * math.sqrt(1 + max((month.year - 2026) * 12 + month.month - 6, 0) / 24)
             )
             forecast_rows.append(
                 {
@@ -244,26 +249,16 @@ def run_forecasting() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
                     "Lower80RevenueTRY": round(max(float(forecast_value - interval), 0), 2),
                     "Upper80RevenueTRY": round(float(forecast_value + interval), 2),
                     "ResidualStdTRY": round(residual_std, 2),
-                    "ForecastHorizonMonth": (
-                        (month.year - 2026) * 12 + month.month - 6
-                    ),
+                    "ForecastHorizonMonth": ((month.year - 2026) * 12 + month.month - 6),
                 }
             )
 
-    comparison = pd.DataFrame(comparison_rows).sort_values(
-        ["BusinessUnit", "Score"]
-    )
+    comparison = pd.DataFrame(comparison_rows).sort_values(["BusinessUnit", "Score"])
     backtest = pd.DataFrame(backtest_rows)
-    forecast = pd.DataFrame(forecast_rows).sort_values(
-        ["Month", "BusinessUnit"]
-    )
+    forecast = pd.DataFrame(forecast_rows).sort_values(["Month", "BusinessUnit"])
     comparison.to_csv(DATA_DIR / "forecast_model_comparison.csv", index=False)
-    backtest.to_csv(
-        DATA_DIR / "forecast_backtest.csv", index=False, date_format="%Y-%m-%d"
-    )
-    forecast.to_csv(
-        DATA_DIR / "revenue_forecast.csv", index=False, date_format="%Y-%m-%d"
-    )
+    backtest.to_csv(DATA_DIR / "forecast_backtest.csv", index=False, date_format="%Y-%m-%d")
+    forecast.to_csv(DATA_DIR / "revenue_forecast.csv", index=False, date_format="%Y-%m-%d")
     return forecast, comparison, backtest
 
 
@@ -273,6 +268,7 @@ if __name__ == "__main__":
     print(f"forecast_model_comparison: {len(comparison):,} rows")
     print(f"forecast_backtest: {len(backtest):,} rows")
     print(
-        comparison.loc[comparison["ChampionFlag"], ["BusinessUnit", "Model", "WAPE"]]
-        .to_string(index=False)
+        comparison.loc[comparison["ChampionFlag"], ["BusinessUnit", "Model", "WAPE"]].to_string(
+            index=False
+        )
     )
