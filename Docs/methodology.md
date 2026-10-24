@@ -55,7 +55,7 @@ Candidate models include:
 - Log-Ridge Seasonal
 - Gradient Boosting
 
-Models are backtested using MAE, RMSE, WAPE, bias, and a combined score. A single champion is selected for each business unit. Closed actual months are not overwritten by forecast values.
+Models are backtested using MAE, RMSE, WAPE, bias, and a combined score. A single champion is selected for each business unit. Closed actual months are not overwritten by forecast values. Forecast input contracts also require one prediction date per calendar month; duplicate months are rejected before fitting to prevent repeated periods from inflating reported revenue.
 
 ## Scenario methodology
 

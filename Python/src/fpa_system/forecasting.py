@@ -39,6 +39,8 @@ def _validated_model_inputs(
         raise ValueError("training dates and values must be non-empty aligned vectors")
     if dates.hasnans or future.hasnans or dates.to_period("M").duplicated().any():
         raise ValueError("model dates must be valid with unique training months")
+    if future.to_period("M").duplicated().any():
+        raise ValueError("prediction dates must contain unique months")
     if not dates.is_monotonic_increasing or not np.isfinite(values).all() or (values < 0).any():
         raise ValueError("training values must be finite, non-negative, and chronological")
     if len(future) and (not future.is_monotonic_increasing or future.min() <= dates.max()):
