@@ -27,3 +27,12 @@ def test_forecast_rejects_coercible_training_values(values):
     future = pd.date_range("2025-03-01", periods=1, freq="MS")
     with pytest.raises(ValueError, match="native numeric"):
         _fit_predict("Seasonal Naive", dates, np.array(values, dtype=object), future)
+
+def test_forecast_rejects_duplicate_prediction_months():
+    dates = pd.Series(pd.date_range("2025-01-01", periods=3, freq="MS"))
+    values = np.array([100.0, 110.0, 120.0])
+    future = pd.DatetimeIndex(["2025-04-01", "2025-04-15"])
+
+    with pytest.raises(ValueError, match="unique months"):
+        _fit_predict("Seasonal Naive", dates, values, future)
+
