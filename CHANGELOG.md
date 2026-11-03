@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Added `Python/tests/test_pnl_and_variance.py` (10 tests). Until now the P&L cascade, margins and
+  budget-variance favourability were only exercised indirectly by the pipeline. The tests cover
+  known-answer cascades, zero-revenue margins, favourable/unfavourable direction for revenue and
+  cost lines, negative and zero comparators, the cascade identities in `Data/monthly_pnl.csv`, and
+  that `Data/variance_analysis.csv` matches the reporting code.
+
 ## v1.0.0 — 2026-07-26
 
 - Added 42 months of synthetic actuals, FY2026 budget, and 18-month rolling forecast.
