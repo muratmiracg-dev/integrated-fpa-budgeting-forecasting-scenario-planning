@@ -184,6 +184,7 @@ check(
 )
 
 package_results = []
+package_problems = []
 for filename, minimum_entries in [
     ("Integrated_FPA_Full_Project_Source_and_Deliverables.zip", 200),
     ("Integrated_FPA_Portfolio_Key_Deliverables.zip", 15),
@@ -193,14 +194,23 @@ for filename, minimum_entries in [
         with zipfile.ZipFile(package) as archive:
             corrupt = archive.testzip()
             entries = len(archive.namelist())
+        if corrupt is not None:
+            package_problems.append(f"{filename}: CRC error in {corrupt}")
+        elif entries < minimum_entries:
+            package_problems.append(
+                f"{filename}: {entries} entries, expected at least {minimum_entries}"
+            )
         package_results.append(corrupt is None and entries >= minimum_entries)
     else:
-        entries = 0
+        # Delivery/*.zip is git-ignored; the packages exist only after a local build.
+        package_problems.append(f"{filename}: missing (build the delivery packages first)")
         package_results.append(False)
 check(
     "Delivery package integrity",
     all(package_results),
-    "Full and compact ZIP packages passed CRC validation",
+    "Full and compact ZIP packages passed CRC validation"
+    if not package_problems
+    else "; ".join(package_problems),
     "Delivery",
 )
 
