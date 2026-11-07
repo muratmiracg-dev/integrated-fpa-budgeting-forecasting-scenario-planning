@@ -4,6 +4,6 @@ scikit-learn==1.8.0
 scipy==1.17.0
 matplotlib==3.10.8
 reportlab==4.4.9
-pypdf==6.10.0
-pytest==8.4.2
+pypdf==6.21.4
+pytest==9.0.3
 ruff==0.12.5
