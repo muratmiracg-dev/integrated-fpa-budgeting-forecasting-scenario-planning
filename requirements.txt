@@ -3,7 +3,7 @@ pandas==2.2.3
 scikit-learn==1.8.0
 scipy==1.17.0
 matplotlib==3.10.8
-reportlab==4.4.9
+reportlab==5.0.1
 pypdf==6.10.0
 pytest==8.4.2
 ruff==0.12.5
