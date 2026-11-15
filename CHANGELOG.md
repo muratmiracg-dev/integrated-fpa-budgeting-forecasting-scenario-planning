@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- CI now checks that the committed `Data/` tables and `SQL/integrated_fpa_analytics.db` are what
+  the current code produces. The rebuild step rewrote `Data/` before the tests, so tests such as
+  the committed-variance check only ever saw fresh output and a stale commit stayed green. CI
+  keeps a copy of the committed outputs, rebuilds, and runs `Tools/compare_outputs.py` (CSV and
+  JSON values within relative 1e-9, SQLite schema and rows). Two tests cover the comparator.
 - Added `Python/tests/test_pnl_and_variance.py` (10 tests). Until now the P&L cascade, margins and
   budget-variance favourability were only exercised indirectly by the pipeline. The tests cover
   known-answer cascades, zero-revenue margins, favourable/unfavourable direction for revenue and

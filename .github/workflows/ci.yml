@@ -21,7 +21,16 @@ jobs:
         run: pip install -r requirements.txt
       - name: Lint
         run: ruff check Python
+      - name: Keep a copy of the committed outputs
+        run: |
+          mkdir -p "$RUNNER_TEMP/committed/SQL"
+          cp -r Data "$RUNNER_TEMP/committed/Data"
+          cp SQL/integrated_fpa_analytics.db "$RUNNER_TEMP/committed/SQL/"
       - name: Rebuild analytical pipeline
         run: PYTHONPATH=Python/src python -m fpa_system.run_pipeline
+      # The rebuild rewrites Data/ in place, so the tests below only see fresh output.
+      # This step proves the committed tables are what the current code produces.
+      - name: Compare rebuilt outputs with the committed outputs
+        run: PYTHONPATH=Python/src python Tools/compare_outputs.py "$RUNNER_TEMP/committed"
       - name: Run financial-control tests
         run: PYTHONPATH=Python/src pytest -q
