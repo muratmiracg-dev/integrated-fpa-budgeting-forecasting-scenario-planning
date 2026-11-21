@@ -38,6 +38,7 @@
 | `risk_summary.csv` | P10/P50/P90 and downside probabilities |
 | `forecast_model_comparison.csv` | Candidate-model metrics and champion flag |
 | `forecast_backtest.csv` | Observation-level backtest results |
+| `revenue_forecast.csv` | Champion revenue forecast by month and business unit, with an 80% band sized by `BacktestRMSETRY` |
 | `forecast_bridge.csv` | Budget-to-forecast EBITDA bridge |
 | `management_insights.csv` | Evidence, action, and owner mapping |
 

@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Revenue-forecast bands were sized by the standard deviation of the champion's hold-out
+  errors, which removes their mean, although the bands are centred on the unadjusted forecast.
+  Retail Stores' champion over-forecast all six hold-out months (mean error TRY 1.01m), so its
+  band used TRY 0.76m instead of the TRY 1.23m root-mean-square error and was 38% too narrow.
+  Bands now use the back-test RMSE; `ResidualStdTRY` is replaced by `BacktestRMSETRY` in
+  `revenue_forecast.csv` (Digital Commerce x1.09, Retail Stores x1.61, Subscription x0.97,
+  Wholesale x0.93). Point forecasts are unchanged.
 - CI now checks that the committed `Data/` tables and `SQL/integrated_fpa_analytics.db` are what
   the current code produces. The rebuild step rewrote `Data/` before the tests, so tests such as
   the committed-variance check only ever saw fresh output and a stale commit stayed green. CI
