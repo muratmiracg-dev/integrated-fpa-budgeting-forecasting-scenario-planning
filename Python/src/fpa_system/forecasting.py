@@ -159,6 +159,23 @@ def _metrics(actual: np.ndarray, predicted: np.ndarray) -> dict[str, float]:
     }
 
 
+def interval_scale(actual: np.ndarray, predicted: np.ndarray) -> float:
+    """Back-test root-mean-square error used to size the forecast bands.
+
+    The standard deviation of the errors measures spread around their own mean and so drops
+    any systematic bias the champion showed on the hold-out months. The bands are centred on
+    the forecast, not on a bias-corrected forecast, so their width must include the bias:
+    RMSE**2 = bias**2 + variance of the errors.
+    """
+    actual = np.asarray(actual, dtype=float)
+    predicted = np.asarray(predicted, dtype=float)
+    if actual.ndim != 1 or predicted.shape != actual.shape or actual.size == 0:
+        raise ValueError("actual and predicted must be non-empty aligned one-dimensional arrays")
+    if not np.isfinite(actual).all() or not np.isfinite(predicted).all():
+        raise ValueError("actual and predicted must contain only finite values")
+    return float(math.sqrt(np.mean((actual - predicted) ** 2)))
+
+
 def _load_monthly_revenue() -> pd.DataFrame:
     actuals = pd.read_csv(DATA_DIR / "fact_actuals.csv", parse_dates=["Month"])
     accounts = pd.read_csv(DATA_DIR / "dim_account.csv")
@@ -235,11 +252,11 @@ def run_forecasting() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
         full_values = frame["RevenueTRY"].to_numpy(dtype=float)
         future = _fit_predict(champion, full_dates, full_values, forecast_months)
         test_pred = model_predictions[champion]
-        residual_std = float(np.std(test["RevenueTRY"].to_numpy(dtype=float) - test_pred, ddof=1))
+        backtest_rmse = interval_scale(test["RevenueTRY"].to_numpy(dtype=float), test_pred)
         for month, forecast_value in zip(forecast_months, future, strict=True):
             interval = (
                 1.28
-                * residual_std
+                * backtest_rmse
                 * math.sqrt(1 + max((month.year - 2026) * 12 + month.month - 6, 0) / 24)
             )
             forecast_rows.append(
@@ -250,7 +267,7 @@ def run_forecasting() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
                     "ForecastRevenueTRY": round(float(forecast_value), 2),
                     "Lower80RevenueTRY": round(max(float(forecast_value - interval), 0), 2),
                     "Upper80RevenueTRY": round(float(forecast_value + interval), 2),
-                    "ResidualStdTRY": round(residual_std, 2),
+                    "BacktestRMSETRY": round(backtest_rmse, 2),
                     "ForecastHorizonMonth": ((month.year - 2026) * 12 + month.month - 6),
                 }
             )
