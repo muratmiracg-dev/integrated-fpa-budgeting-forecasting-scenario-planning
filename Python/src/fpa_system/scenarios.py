@@ -75,9 +75,14 @@ def build_scenarios() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
             )
         ].copy()
 
-        for month, month_frame in scenario_frame[
-            scenario_frame["Month"] >= future_start
-        ].groupby("Month"):
+        # Corporate tax is assessed on the fiscal year, not month by month. Taxing each
+        # month's positive EBT and ignoring loss months charged the Stress scenario tax on a
+        # loss-making forecast window. Accrue year-to-date instead: each month books
+        # 25% x max(YTD EBT, 0) less the tax already booked in that calendar year, which can
+        # release tax when later losses absorb earlier profits.
+        ytd_ebt: dict[int, float] = {}
+        ytd_tax: dict[int, float] = {}
+        for month, month_frame in scenario_frame.groupby("Month"):
             totals = (
                 month_frame.assign(
                     AccountGroup=month_frame["AccountKey"].map(account_group)
@@ -92,6 +97,13 @@ def build_scenarios() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
                 - float(totals.get("Depreciation", 0))
                 - float(totals.get("Interest", 0))
             )
+            year = pd.Timestamp(month).year
+            ytd_ebt[year] = ytd_ebt.get(year, 0.0) + ebt
+            if month < future_start:
+                ytd_tax[year] = ytd_tax.get(year, 0.0) + float(totals.get("Tax", 0))
+                continue
+            tax = 0.25 * max(ytd_ebt[year], 0.0) - ytd_tax.get(year, 0.0)
+            ytd_tax[year] = ytd_tax.get(year, 0.0) + tax
             corporate = cost_centers[
                 cost_centers["CostCenterID"] == "CC-801"
             ].iloc[0]
@@ -110,7 +122,7 @@ def build_scenarios() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
                                 "PeriodStatus": "Forecast",
                                 "SourceSystem": "Scenario Engine",
                                 "AccountKey": "A6900",
-                                "AmountTRY": round(max(ebt, 0) * 0.25, 2),
+                                "AmountTRY": round(tax, 2),
                                 "Scenario": scenario,
                             }
                         ]

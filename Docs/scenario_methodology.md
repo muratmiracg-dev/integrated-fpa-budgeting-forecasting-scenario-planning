@@ -47,7 +47,11 @@ for both revenue and EBITDA.
 | Upside | TRY 1.88B | TRY 206.3M | 11.0% | TRY 293.3M | 36.9 days |
 | Base | TRY 1.79B | TRY 164.4M | 9.2% | TRY 245.6M | 45.9 days |
 | Downside | TRY 1.70B | TRY 118.5M | 7.0% | TRY 185.6M | 59.9 days |
-| Stress | TRY 1.60B | TRY 71.3M | 4.5% | TRY 115.9M | 77.9 days |
+| Stress | TRY 1.60B | TRY 71.3M | 4.5% | TRY 118.1M | 77.9 days |
+
+Scenario tax is accrued on the fiscal year: each forecast month books 25% of positive
+year-to-date EBT less the tax already booked that year, so loss months offset earlier profits
+instead of being ignored.
 
 ## Decision triggers
 
