@@ -906,7 +906,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,381414.17,Base
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Base
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Base
-2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,2828975.48,Base
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,2828975.46,Base
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,30041344.4,Base
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,11356333.33,Base
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,835786.05,Base
@@ -3244,7 +3244,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,368064.67405,Downside
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Downside
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Downside
-2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,1112359.9,Downside
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,1112359.89,Downside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,27037209.96,Downside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,10476217.496925,Downside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,771012.6311250001,Downside
@@ -4154,7 +4154,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2027-02-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,389107.73425,Downside
 2027-02-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Downside
 2027-02-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Downside
-2027-02-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,47308.87,Downside
+2027-02-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,0.0,Downside
 2027-03-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,29469980.043,Downside
 2027-03-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,11361471.624,Downside
 2027-03-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,836164.2120749999,Downside
@@ -4284,7 +4284,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2027-03-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,392210.53734999994,Downside
 2027-03-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Downside
 2027-03-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Downside
-2027-03-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,1130529.57,Downside
+2027-03-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,1122410.93,Downside
 2027-04-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,30347365.815,Downside
 2027-04-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,11699727.494175,Downside
 2027-04-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,861058.649475,Downside
@@ -5582,7 +5582,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,352808.10725,Stress
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Stress
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Stress
-2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,0.0,Stress
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,-652924.46,Stress
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,24033075.52,Stress
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,9675595.99716,Stress
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,712089.7146000001,Stress
@@ -5712,7 +5712,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,355621.4485,Stress
 2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Stress
 2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Stress
-2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,0.0,Stress
+2026-08-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,-1304291.82,Stress
 2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,25494758.784,Stress
 2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,10264062.36912,Stress
 2026-09-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,755398.75752,Stress
@@ -5842,7 +5842,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,358457.221,Stress
 2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Stress
 2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Stress
-2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,0.0,Stress
+2026-09-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,-240466.65,Stress
 2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,27482794.624,Stress
 2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,11064435.65064,Stress
 2026-10-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,814303.41336,Stress
@@ -7920,7 +7920,7 @@ Month,CostCenterID,Department,BusinessUnit,Region,Version,PeriodStatus,SourceSys
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6600,390949.52424999996,Upside
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6700,170000.0,Upside
 2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Forecast,Forecast,Q2 2026 Rolling Forecast,A6800,453035.52,Upside
-2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,4403378.28,Upside
+2026-07-01,CC-801,Finance & Corporate,Shared Services,Global,Scenario,Forecast,Scenario Engine,A6900,4403378.27,Upside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A4000,32745065.396,Upside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5000,12192727.2797545,Upside
 2026-08-01,CC-101,Sales,Digital Commerce,Türkiye,Forecast,Forecast,Q2 2026 Rolling Forecast,A5010,897341.6925825,Upside

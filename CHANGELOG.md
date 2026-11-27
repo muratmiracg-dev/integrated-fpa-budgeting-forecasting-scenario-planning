@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Scenario tax was charged at 25% of each month's positive EBT, ignoring loss months. The
+  Stress scenario has nine loss-making forecast months, so it paid tax across a loss-making
+  forecast window. Tax is now accrued on year-to-date EBT per fiscal year. Stress net income
+  is TRY 37.6m (was TRY 35.4m) and its ending cash TRY 118.1m (was TRY 115.9m). Other
+  scenarios move by cents of rounding. The Excel, deck, PBIP and PDF deliverables still show
+  the earlier Stress figures until they are rebuilt.
 - Revenue-forecast bands were sized by the standard deviation of the champion's hold-out
   errors, which removes their mean, although the bands are centred on the unadjusted forecast.
   Retail Stores' champion over-forecast all six hold-out months (mean error TRY 1.01m), so its
